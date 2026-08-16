@@ -312,7 +312,7 @@ CVPR 2021 (oral). [\[PDF\]](https://arxiv.org/abs/2011.12799) \[[Code](https://g
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,315 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,318 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
 
 **GHFeat: Generative Hierarchical Features from Synthesizing Images.**<br>
 *Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
@@ -674,7 +674,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2305.15391)] \[[Project](https://inbarhu
 
 **Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code.**<br>
 *Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu.*<br>
-ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 409 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
+ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 410 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
 
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
 *Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -860,7 +860,7 @@ SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2202.04040)] \[[Project](https://gi
 
 **StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators.**<br>
 *[Rinon Gal](https://rinongal.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Haggai Maron](https://haggaim.github.io/), [Gal Chechik](https://research.nvidia.com/person/gal-chechik), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2108.00946)] \[[Project](https://stylegan-nada.github.io/)] \[[Code](https://github.com/rinongal/StyleGAN-nada) ⭐ 1,193 | 🐛 14 | 🌐 Python | 📅 2022-09-29]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2108.00946)] \[[Project](https://stylegan-nada.github.io/)] \[[Code](https://github.com/rinongal/StyleGAN-nada) ⭐ 1,194 | 🐛 14 | 🌐 Python | 📅 2022-09-29]
 
 **SphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis.**<br>
 *Tianyi Chen, Yunfei Zhang, Xiaoyang Huo, Si Wu, Yong Xu, Hau San Wong.*<br>
@@ -876,7 +876,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.co
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
-CVPR 2022. \[[PDF](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf)] \[[Project](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)] \[[Code](https://github.com/oneThousand1000/non-hair-FFHQ/blob/main) ⭐ 376 | 🐛 2 | 📅 2024-03-25] \[[Non-hair-FFHQ Data](https://github.com/oneThousand1000/non-hair-FFHQ) ⭐ 376 | 🐛 2 | 📅 2024-03-25]
+CVPR 2022. \[[PDF](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf)] \[[Project](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)] \[[Code](https://github.com/oneThousand1000/non-hair-FFHQ/blob/main) ⭐ 375 | 🐛 2 | 📅 2024-03-25] \[[Non-hair-FFHQ Data](https://github.com/oneThousand1000/non-hair-FFHQ) ⭐ 375 | 🐛 2 | 📅 2024-03-25]
 
 **Attribute Group Editing for Reliable Few-shot Image Generation.**<br>
 *Guanqi Ding, Xinzhe Han, Shuhui Wang, Shuzhe Wu, Xin Jin, Dandan Tu, Qingming Huang.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
