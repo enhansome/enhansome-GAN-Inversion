@@ -106,7 +106,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,942 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 505 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,941 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -118,11 +118,11 @@ CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,416 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,415 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
-ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,178 | 🐛 11 | 🌐 Python | 📅 2022-02-17]
+ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,179 | 🐛 11 | 🌐 Python | 📅 2022-02-17]
 
 ### 3D-aware GANs
 
@@ -244,7 +244,7 @@ ACM MM 2022. \[[PDF](https://arxiv.org/abs/2207.09367)] \[[Code](https://github.
 
 **Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing.**<br>
 *[Gaurav Parmar](https://gauravparmar.com/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Richard Zhang](http://richzhang.github.io/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/).*<br>
-CVPR 2022. \[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Parmar_Spatially-Adaptive_Multilayer_Selection_for_GAN_Inversion_and_Editing_CVPR_2022_paper.pdf)] \[[Project](https://www.cs.cmu.edu/~SAMInversion)] \[[Code](https://github.com/adobe-research/sam_inversion) ⭐ 174 | 🐛 8 | 🌐 Python | 📅 2023-01-21]
+CVPR 2022. \[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Parmar_Spatially-Adaptive_Multilayer_Selection_for_GAN_Inversion_and_Editing_CVPR_2022_paper.pdf)] \[[Project](https://www.cs.cmu.edu/~SAMInversion)] \[[Code](https://github.com/adobe-research/sam_inversion) ⭐ 173 | 🐛 8 | 🌐 Python | 📅 2023-01-21]
 
 **Style Transformer for Image Inversion and Editing.**<br>
 *Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li.*<br>
@@ -312,7 +312,7 @@ CVPR 2021 (oral). [\[PDF\]](https://arxiv.org/abs/2011.12799) \[[Code](https://g
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,332 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,337 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
 
 **GHFeat: Generative Hierarchical Features from Synthesizing Images.**<br>
 *Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
@@ -332,7 +332,7 @@ ICML 2021. \[[PDF](https://arxiv.org/abs/2102.07364)] \[[Code](https://github.co
 
 **Using Latent Space Regression to Analyze and Leverage Compositionality in GANs.**<br>
 *[Lucy Chai](http://people.csail.mit.edu/lrchai/), [Jonas Wulff](http://people.csail.mit.edu/jwulff/), [Phillip Isola](http://web.mit.edu/phillipi/).*<br>
-ICLR 2021. \[[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)] \[[Code](https://github.com/chail/latent-composition) ⭐ 173 | 🐛 1 | 🌐 Python | 📅 2021-05-26] \[[Project](https://chail.github.io/latent-composition/)] \[[Colab](https://colab.research.google.com/drive/1p-L2dPMaqMyr56TYoYmBJhoyIyBJ7lzH?usp=sharing)]
+ICLR 2021. \[[PDF](https://openreview.net/pdf?id=sjuuTm4vj0)] \[[Code](https://github.com/chail/latent-composition) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2021-05-26] \[[Project](https://chail.github.io/latent-composition/)] \[[Colab](https://colab.research.google.com/drive/1p-L2dPMaqMyr56TYoYmBJhoyIyBJ7lzH?usp=sharing)]
 
 **Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation.**<br>
 *Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing.*<br>
@@ -388,7 +388,7 @@ ECCV 2020. \[[PDF](https://arxiv.org/abs/2003.03581)] \[[Code](https://github.co
 
 **In-Domain GAN Inversion for Real Image Editing.**<br>
 *Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
-ECCV 2020. \[[PDF](https://arxiv.org/abs/2004.00049)] \[[Project](https://genforce.github.io/idinvert/)] \[[Code](https://github.com/genforce/idinvert) ⭐ 454 | 🐛 20 | 🌐 Python | 📅 2021-07-28]
+ECCV 2020. \[[PDF](https://arxiv.org/abs/2004.00049)] \[[Project](https://genforce.github.io/idinvert/)] \[[Code](https://github.com/genforce/idinvert) ⭐ 453 | 🐛 20 | 🌐 Python | 📅 2021-07-28]
 
 **Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
 *Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
@@ -670,7 +670,7 @@ CVPR 2024. \[[PDF](https://arxiv.org/abs/2411.15843)] \[[Project](https://pengch
 
 **An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
 *[Inbar Huberman-Spiegelglas](https://inbarhub.github.io/www/), Vladimir Kulikov, Tomer Michaeli.*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2305.15391)] \[[Project](https://inbarhub.github.io/DDPM_inversion/)] \[[Code](https://github.com/inbarhub/DDPM_inversion) ⭐ 368 | 🐛 1 | 🌐 Python | 📅 2024-07-11]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2305.15391)] \[[Project](https://inbarhub.github.io/DDPM_inversion/)] \[[Code](https://github.com/inbarhub/DDPM_inversion) ⭐ 367 | 🐛 1 | 🌐 Python | 📅 2024-07-11]
 
 **Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code.**<br>
 *Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu.*<br>
@@ -714,7 +714,7 @@ CVPR 2024 (Oral). \[[PDF](https://arxiv.org/abs/2312.05390)] \[[Project](https:/
 
 **An Edit Friendly DDPM Noise Space: Inversion and Manipulations.**<br>
 *Inbar Huberman-Spiegelglas, Vladimir Kulikov, Tomer Michaeli.*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2304.06140)] \[[Code](https://github.com/inbarhub/DDPM_inversion) ⭐ 368 | 🐛 1 | 🌐 Python | 📅 2024-07-11]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2304.06140)] \[[Code](https://github.com/inbarhub/DDPM_inversion) ⭐ 367 | 🐛 1 | 🌐 Python | 📅 2024-07-11]
 
 **Diffusion Models Already Have A Semantic Latent Space.**<br>
 *Mingi Kwon, Jaeseok Jeong, Youngjung Uh.*<br>
@@ -924,7 +924,7 @@ TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
-SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,440 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
+SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,439 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
@@ -940,7 +940,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.03272)]
 
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), Marcus A. Brubaker, Michael S. Brown.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2011.11731)] \[[Code](https://github.com/mahmoudnafifi/HistoGAN) ⭐ 294 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-02-25] \[[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2011.11731)] \[[Code](https://github.com/mahmoudnafifi/HistoGAN) ⭐ 292 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-02-25] \[[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
 
 **One Shot Face Swapping on Megapixels.**<br>
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
