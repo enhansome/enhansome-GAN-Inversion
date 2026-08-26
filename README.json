@@ -539,7 +539,7 @@
                 "last_commit": "2022-10-01T11:23:39Z",
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3348
+                "stars": 3349
               }
             },
             {
@@ -614,7 +614,7 @@
                 "last_commit": "2023-07-15T00:35:18Z",
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 997
+                "stars": 998
               }
             },
             {
@@ -1150,7 +1150,7 @@
             "last_commit": "2022-02-09T02:20:04Z",
             "owner": "genforce",
             "repo": "interfacegan",
-            "stars": 1562
+            "stars": 1561
           }
         },
         {
@@ -1867,7 +1867,7 @@
                 "last_commit": "2021-04-30T11:50:25Z",
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8022
+                "stars": 8023
               }
             },
             {
@@ -2080,7 +2080,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:40.215Z",
+    "last_updated": "2026-08-26T05:43:01.199Z",
     "original_repository": "weihaox/GAN-Inversion",
     "original_repository_id": 345286143,
     "original_repository_sha": "0cd8dea8ce948fc54d5f89f5e3cc130203e78da1",
