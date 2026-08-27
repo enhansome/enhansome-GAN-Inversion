@@ -539,7 +539,7 @@
                 "last_commit": "2022-10-01T11:23:39Z",
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3349
+                "stars": 3350
               }
             },
             {
@@ -2080,9 +2080,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:43:01.199Z",
-    "original_repository": "weihaox/GAN-Inversion",
-    "original_repository_id": 345286143,
+    "last_updated": "2026-08-27T11:40:37.930Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 345286143,
+      "language": "TeX",
+      "last_commit": "2026-07-14T02:45:22Z",
+      "owner": "weihaox",
+      "repo": "GAN-Inversion",
+      "stars": 1127
+    },
     "original_repository_sha": "0cd8dea8ce948fc54d5f89f5e3cc130203e78da1",
     "enhanced_repository": "enhansome/enhansome-GAN-Inversion",
     "enhanced_repository_description": null,
