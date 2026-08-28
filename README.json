@@ -18,7 +18,8 @@
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
                 "stars": 1197
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "autonomousvision",
                 "repo": "stylegan-xl",
                 "stars": 996
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "self-distilled-stylegan",
                 "repo": "self-distilled-internet-photos",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "nupurkmr9",
                 "repo": "vision-aided-gan",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2023-09-12T17:04:25Z",
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6943
-              }
+                "stars": 6942
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
                 "stars": 1829
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "Scaling up GANs for Text-to-Image Synthesis. Minguk Kang, Jun-Yan Zhu, Richard Zhang, Jaesik Park, Eli Shechtman, Sylvain Paris, Taesung Park. CVPR 2023 (Highlight). [PDF] [Project]\nStyleGAN2: Analyzing and Improving the Image Quality of StyleGAN. Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila. CVPR 2020. [PDF] [PyTorch] [Offical TF] [Unoffical Tensorflow 2.0]\nStyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks. Tero Karras, Samuli Laine, Timo Aila. CVPR 2019. [PDF] [Offical TF]\nProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation. Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen. ICLR 2018. [PDF] [Offical TF]",
@@ -115,7 +121,8 @@
                 "owner": "NVlabs",
                 "repo": "eg3d",
                 "stars": 3338
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "royorel",
                 "repo": "StyleSDF",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "lucidrains",
                 "repo": "pi-GAN-pytorch",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "Please check our 3D-aware image synthesis survey, paper list, and project for more details.\nStyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis. Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt. ICLR 2022. [PDF] [Project]",
@@ -173,7 +182,8 @@
                 "owner": "jiangyzy",
                 "repo": "GOAE",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "enisimsar",
                 "repo": "latentswap3d",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "jiaxinxie97",
                 "repo": "HFGI3D",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "NIRVANALAN",
                 "repo": "CVPR23-E3DGE",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "cvlab-kaist",
                 "repo": "3DGAN-Inversion",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "3D-GOI: 3D GAN Omni-Inversion for Multifaceted and Multi-object Editing. Haoran Li, Long Ma, Haolin Shi, Yanbin Hao, Yong Liao, Lechao Cheng, Peng Yuan Zhou. ECCV 2024. [PDF]\nTriPlaneNet: An Encoder for EG3D Inversion. Ananta R. Bhattarai, Matthias Nießner, Artem Sevastopolsky. WACV 2024. [PDF] [Project]\nIn-N-Out: Faithful 3D GAN Inversion with Volumetric Decomposition for Face Editing. Yiran Xu, Zhixin Shu, Cameron Smith, Jia-Bin Huang, Seoung Wug Oh. CVPR 2024. [PDF] [Project]\nLearning Detailed Radiance Manifolds for High-Fidelity and 3D-Consistent Portrait Synthesis from Monocular Image. Yu Deng, Baoyuan Wang, Heung-Yeung Shum. CVPR 2023. [PDF] [Project]\n3D GAN Inversion for Controllable Portrait Image Animation. Connor Z. Lin, David B. Lindell, Eric R. Chan, Gordon Wetzstein. ECCV 2022 Workshop on Learn3DG. [PDF] [Project]\nPix2NeRF: Unsupervised Conditional π-GAN for Single Image to Neural Radiance Fields Translation. Shengqu Cai, Anton Obukhov, Dengxin Dai, Luc Van Gool. CVPR 2022. [PDF]",
@@ -255,7 +269,8 @@
                 "owner": "hamzapehlivan",
                 "repo": "StyleRes",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "boschresearch",
                 "repo": "ISSA",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "danielroich",
                 "repo": "PTI",
                 "stars": 929
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "wtybest",
                 "repo": "e2style",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "EzioBy",
                 "repo": "padinv",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -330,7 +349,8 @@
                 "owner": "HaoruiSong622",
                 "repo": "Editing-Out-of-Domain",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -345,7 +365,8 @@
                 "owner": "futscdav",
                 "repo": "Chunkmogrify",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -360,7 +381,8 @@
                 "owner": "InterDigitalInc",
                 "repo": "FeatureStyleEncoder",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "xudonmao",
                 "repo": "CycleEncoding",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "adobe-research",
                 "repo": "sam_inversion",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "sapphire497",
                 "repo": "style-transformer",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "Tengfei-Wang",
                 "repo": "HFGI",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "yuval-alaluf",
                 "repo": "hyperstyle",
                 "stars": 1027
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "cnnlstm",
                 "repo": "InvertingGANs_with_ConsecutiveImgs",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "yuval-alaluf",
                 "repo": "restyle-encoder",
                 "stars": 1046
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "catlab-team",
                 "repo": "latentclr",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -495,7 +525,8 @@
                 "owner": "chail",
                 "repo": "gan-ensembling",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "yandex-research",
                 "repo": "navigan",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "betterze",
                 "repo": "StyleSpace",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
                 "stars": 3350
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "genforce",
                 "repo": "ghfeat",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "giannisdaras",
                 "repo": "ilo",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -585,7 +621,8 @@
                 "owner": "chail",
                 "repo": "latent-composition",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "yxuhan",
                 "repo": "IALS",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "omertov",
                 "repo": "encoder4editing",
                 "stars": 998
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "YotamNitzan",
                 "repo": "ID-disentanglement",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "davidbau",
                 "repo": "dissect",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "YotamNitzan",
                 "repo": "ID-disentanglement",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "minyoungg",
                 "repo": "GAN-Transform-and-Project",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "davidbau",
                 "repo": "rewriting",
                 "stars": 535
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -705,7 +749,8 @@
                 "owner": "EvgenyKashin",
                 "repo": "stylegan2-distillation",
                 "stars": 1018
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -720,7 +765,8 @@
                 "owner": "genforce",
                 "repo": "idinvert",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -735,7 +781,8 @@
                 "owner": "XingangPan",
                 "repo": "deep-generative-prior",
                 "stars": 520
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -750,7 +797,8 @@
                 "owner": "CompVis",
                 "repo": "iin",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -765,7 +813,8 @@
                 "owner": "IVRL",
                 "repo": "GANLocalEditing",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -780,7 +829,8 @@
                 "owner": "genforce",
                 "repo": "mganprior",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -795,7 +845,8 @@
                 "owner": "ToniCreswell",
                 "repo": "InvertingGAN",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -810,7 +861,8 @@
                 "owner": "fangchangma",
                 "repo": "invert-generative-networks",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -825,7 +877,8 @@
                 "owner": "SubarnaTripathi",
                 "repo": "ReverseGAN",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -840,7 +893,8 @@
                 "owner": "ZPdesu",
                 "repo": "II2S",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "ReGANIE: Rectifying GAN Inversion Errors for Accurate Real Image Editing. Bingchuan Li, Tianxiang Ma, Peng Zhang, Miao Hua, Wei Liu, Qian He, Zili Yi. AAAI 2023. [PDF]\nIntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion. Seungjun Moon, GyeongMoon Park. ECCV 2022. [PDF]\nHyperInverter: Improving StyleGAN Inversion via Hypernetwork. Tan M. Dinh, Anh Tuan Tran, Rang Nguyen, Binh-Son Hua. CVPR 2022. [PDF] [Project]\nOverparameterization Improves StyleGAN Inversion. Yohan Poirier-Ginter, Alexandre Lessard, Ryan Smith, Jean-François Lalonde. CVPR 2022 Workshop on AI for Content Creation. [PDF] [Code]\nStyleAlign: Analysis and Applications of Aligned StyleGAN Models. Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski. ICLR 2022. [PDF]\nGAN-Control: Explicitly Controllable GANs. Alon Shoshan, Nadav Bhonker, Igor Kviatkovsky, Gerard Medioni. ICCV 2021. [PDF]\nExplaining in Style: Training a GAN to explain a classifier in StyleSpace. Oran Lang, Yossi Gandelsman, Michal Yarom, Yoav Wald, Gal Elidan, Avinatan Hassidim, William T. Freeman, Phillip Isola, Amir Globerson, Michal Irani, Inbar Mosseri. ICCV 2021. [PDF] [Project]\nBDInvert: GAN Inversion for Out-of-Range Images with Geometric Transformations. Kyoungkook Kang, Seongtae Kim, Sunghyun Cho. ICCV 2021. [PDF] [Project]\nLifting 2D StyleGAN for 3D-Aware Face Generation. Yichun Shi, Divyansh Aggarwal, Anil K. Jain. CVPR 2021. [PDF]\nHijack-GAN: Unintended-Use of Pretrained, Black-Box GANs. Hui-Po Wang, Ning Yu, Mario Fritz. CVPR 2021. [PDF]\nPrior Image-Constrained Reconstruction using Style-Based Generative Models. Varun A Kelkar, Mark Anastasio. ICML 2021. [PDF]\nEnjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation. Peiye Zhuang, Oluwasanmi Koyejo, Alexander G. Schwing. ICLR 2021. [PDF]\nHigh Fidelity GAN Inversion via Prior Multi-Subspace Feature Composition. Guanyue Li, Qianfen Jiao, Sheng Qian, Si Wu, Hau-San Wong. AAAI 2021. [PDF]\nStyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows. Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka. TOG 2021. [PDF] [Code]\nPIE: Portrait Image Embedding for Semantic Control. A. Tewari, M. Elgharib, M. BR, F. Bernard, H-P. Seidel, P. P‌érez, M. Zollhöfer, C.Theobalt. TOG 2020. [PDF] [Project]\nMimicGAN: Robust Projection onto Image Manifolds with Corruption Mimicking. Rushil Anirudh, Jayaraman J. Thiagarajan, Bhavya Kailkhura, Timo Bremer. IJCV 2020. [PDF]\nYour Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models. Giannis Daras, Augustus Odena, Han Zhang, Alexandros G. Dimakis. CVPR 2020. [PDF]\nImage2StyleGAN++: How to Edit the Embedded Images? Rameen Abdal, Yipeng Qin, Peter Wonka. CVPR 2020. [PDF]\nSemantic Photo Manipulation with a Generative Image Prior. David Bau, Hendrik Strobelt, William Peebles, Jonas, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba. TOG 2019. [PDF]\nGAN-based Projector for Faster Recovery with Convergence Guarantees in Linear Inverse Problems. Ankit Raj, Yuqi Li, Yoram Bresler. ICCV 2019. [PDF]\nInverting Layers of a Large Generator. David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba. ICCV 2019. [PDF]\nDetecting Overfitting in Deep Generators via Latent Recovery. Ryan Webster, Julien Rabin, Loic Simon, Frederic Jurie. CVPR 2019. [PDF][Colab]\nMetrics for Deep Generative Models. Nutan Chen, Alexej Klushyn, Richard Kurle, Xueyan Jiang, Justin Bayer, Patrick van der Smagt. AISTATS 2018. [PDF]\nTowards Understanding the Invertibility of Convolutional Neural Networks. Anna C. Gilbert, Yi Zhang, Kibok Lee, Yuting Zhang, Honglak Lee. IJCAI 2017. [PDF]\nOne Network to Solve Them All - Solving Linear Inverse Problems using Deep Projection Models. J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan. ICCV 2017. [PDF]\nInverting The Generator Of A Generative Adversarial Network. Antonia Creswell, Anil Anthony Bharath. NeurIPS 2016 Workshop. [PDF]\nGenerative Visual Manipulation on the Natural Image Manifold. Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, Alexei A. Efros. ECCV 2016. [PDF]\nImproving Inversion and Generation Diversity in StyleGAN Using A Gaussianized Latent Space. Jonas Wulff, Antonio Torralba. arxiv 2020. [PDF]",
@@ -866,7 +920,8 @@
             "owner": "KingJamesSong",
             "repo": "PDETraversal",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -881,7 +936,8 @@
             "owner": "james-oldfield",
             "repo": "PandA",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -896,7 +952,8 @@
             "owner": "zikuncshelly",
             "repo": "GradCtrl",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -911,7 +968,8 @@
             "owner": "RameenAbdal",
             "repo": "CLIP2StyleGAN",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -926,7 +984,8 @@
             "owner": "zhujiapeng",
             "repo": "resefa",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -941,7 +1000,8 @@
             "owner": "wyhsirius",
             "repo": "LIA",
             "stars": 651
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -956,7 +1016,8 @@
             "owner": "YotamNitzan",
             "repo": "LARGE",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -971,7 +1032,8 @@
             "owner": "OmerKafri",
             "repo": "StyleFusion",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -986,7 +1048,8 @@
             "owner": "james-oldfield",
             "repo": "TCA",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1001,7 +1064,8 @@
             "owner": "zhujiapeng",
             "repo": "LowRankGAN",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1016,7 +1080,8 @@
             "owner": "InterDigitalInc",
             "repo": "latent-transformer",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1031,7 +1096,8 @@
             "owner": "chi0tzp",
             "repo": "WarpedGANSpace",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1046,7 +1112,8 @@
             "owner": "KhrulkovV",
             "repo": "nonlinear-image-editing",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1061,7 +1128,8 @@
             "owner": "csyxwei",
             "repo": "OroJaR",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1076,7 +1144,8 @@
             "owner": "LynnHo",
             "repo": "EigenGAN-Tensorflow",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1091,7 +1160,8 @@
             "owner": "BERYLSHEEP",
             "repo": "AdvStyle",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1106,7 +1176,8 @@
             "owner": "genforce",
             "repo": "sefa",
             "stars": 965
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1121,7 +1192,8 @@
             "owner": "snap-research",
             "repo": "MoCoGAN-HD",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1136,7 +1208,8 @@
             "owner": "harskish",
             "repo": "ganspace",
             "stars": 1794
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1151,7 +1224,8 @@
             "owner": "genforce",
             "repo": "interfacegan",
             "stars": 1561
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1166,7 +1240,8 @@
             "owner": "anvoynov",
             "repo": "GANLatentDiscovery",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         }
       ],
       "title": "GAN Latent Space Editing"
@@ -1187,7 +1262,8 @@
             "owner": "Pengchengpcx",
             "repo": "FTEdit",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1202,7 +1278,8 @@
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1217,7 +1294,8 @@
             "owner": "cure-lab",
             "repo": "PnPInversion",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1232,7 +1310,8 @@
             "owner": "google",
             "repo": "prompt-to-prompt",
             "stars": 3456
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1247,7 +1326,8 @@
             "owner": "salesforce",
             "repo": "EDICT",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1262,7 +1342,8 @@
             "owner": "rinongal",
             "repo": "textual_inversion",
             "stars": 3055
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1277,7 +1358,8 @@
             "owner": "google",
             "repo": "prompt-to-prompt",
             "stars": 3456
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         }
       ],
       "title": "Diffusion Inversion"
@@ -1298,7 +1380,8 @@
             "owner": "hangligit",
             "repo": "InterpretDiffusion",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1396,8 @@
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
             "stars": 366
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         },
         {
           "node_type": "item",
@@ -1328,7 +1412,8 @@
             "owner": "ChenWu98",
             "repo": "cycle-diffusion",
             "stars": 659
-          }
+          },
+          "first_seen": "2026-08-28T17:20:40.886Z"
         }
       ],
       "title": "Diffusion Latent Space Editing"
@@ -1351,7 +1436,8 @@
                 "owner": "Huang-KT",
                 "repo": "WarpGAN",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1452,8 @@
                 "owner": "1211sh",
                 "repo": "Diffusion-driven_GAN-Inversion",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1381,7 +1468,8 @@
                 "owner": "ControlGenAI",
                 "repo": "StyleFeatureEditor",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1484,8 @@
                 "owner": "trevineoorloff",
                 "repo": "ExpressiveFaceVideoEncoding",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1411,7 +1500,8 @@
                 "owner": "KumapowerLIU",
                 "repo": "CLCAE",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1426,7 +1516,8 @@
                 "owner": "weihaox",
                 "repo": "DynODE",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1441,7 +1532,8 @@
                 "owner": "rotemtzaban",
                 "repo": "STIT",
                 "stars": 1197
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1548,8 @@
                 "owner": "phycvgan",
                 "repo": "DyStyle",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1471,7 +1564,8 @@
                 "owner": "ChenWu98",
                 "repo": "generative-visual-prompt",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1486,7 +1580,8 @@
                 "owner": "zhangzc21",
                 "repo": "Generalized-One-shot-GAN-Adaptation",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1501,7 +1596,8 @@
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
                 "stars": 1438
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1516,7 +1612,8 @@
                 "owner": "apple",
                 "repo": "ml-gmpi",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1531,7 +1628,8 @@
                 "owner": "yuval-alaluf",
                 "repo": "stylegan3-editing",
                 "stars": 686
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1546,7 +1644,8 @@
                 "owner": "yzliu567",
                 "repo": "sc-gan",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1561,7 +1660,8 @@
                 "owner": "rinongal",
                 "repo": "StyleGAN-nada",
                 "stars": 1195
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1576,7 +1676,8 @@
                 "owner": "wtybest",
                 "repo": "HairCLIP",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1591,7 +1692,8 @@
                 "owner": "oneThousand1000",
                 "repo": "non-hair-FFHQ",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1606,7 +1708,8 @@
                 "owner": "UniBester",
                 "repo": "AGE",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1621,7 +1724,8 @@
                 "owner": "PeterZhouSZ",
                 "repo": "StyleCariGAN",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1636,7 +1740,8 @@
                 "owner": "yuval-alaluf",
                 "repo": "SAM",
                 "stars": 723
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1650,8 +1755,9 @@
                 "last_commit": "2023-06-25T17:53:30Z",
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1439
-              }
+                "stars": 1440
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1666,7 +1772,8 @@
                 "owner": "ktrk115",
                 "repo": "const_layout",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1681,7 +1788,8 @@
                 "owner": "mahmoudnafifi",
                 "repo": "HistoGAN",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1696,7 +1804,8 @@
                 "owner": "zyainfal",
                 "repo": "One-Shot-Face-Swapping-on-Megapixels",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1711,7 +1820,8 @@
                 "owner": "dukebw",
                 "repo": "LOHO",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1726,7 +1836,8 @@
                 "owner": "naver-ai",
                 "repo": "StyleMapGAN",
                 "stars": 461
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1741,7 +1852,8 @@
                 "owner": "IIGROUP",
                 "repo": "MM-CelebA-HQ-Dataset",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1756,7 +1868,8 @@
                 "owner": "yaxingwang",
                 "repo": "DeepI2I",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1771,7 +1884,8 @@
                 "owner": "saic-mdal",
                 "repo": "deep-landscape",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1786,7 +1900,8 @@
                 "owner": "endo-yuki-t",
                 "repo": "Fewshot-SMIS",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1801,7 +1916,8 @@
                 "owner": "alexandonian",
                 "repo": "paint-by-word",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "Synthetic Prior for Few-Shot Drivable Head Avatar Inversion. Wojciech Zielonka, Stephan J. Garbin, Alexandros Lattas, George Kopanas, Paulo Gotardo, Thabo Beeler, Justus Thies, Timo Bolkart. CVPR 2025. [PDF] [Project]\nRobust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2. Trevine Oorloff, Yaser Yacoob. ICCV 2023. [PDF] [Project]\nCLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing. Ahmet Canberk Baykal, Abdul Basit Anees, Duygu Ceylan, Erkut Erdem, Aykut Erdem, Deniz Yuret. TOG 2023. [PDF]\nNeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation. Yu Yin, Kamran Ghasedi, HsiangTao Wu, Jiaolong Yang, Xin Tong, Yun Fu. CVPR 2023. [PDF]\nFine-Grained Face Swapping via Regional GAN Inversion. Zhian Liu, Maomao Li, Yong Zhang, Cairong Wang, Qi Zhang, Jue Wang, Yongwei Nie. CVPR 2023. [PDF] [Project]\nVIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs. Anna Frühstück, Nikolaos Sarafianos, Yuanlu Xu, Peter Wonka, Tony Tung. CVPR 2023. [PDF] [Project] [Code]\nBalancing Reconstruction and Editing Quality of GAN Inversion for Real Image Editing with StyleGAN Prior Latent Space. Kai Katsumata, Duc Minh Vo, Bei Liu, Hideki Nakayama. CVPR 2023 Workshop on AI4CC. [PDF]\nDr.3D: Adapting 3D GANs to Artistic Drawings. Wonjoon Jin, Nuri Ryu, Geonung Kim, Seung-Hwan Baek, Sunghyun Cho. SIGGRAPH Asia 2022. [PDF] [Project]\n3D-FM GAN: Towards 3D-Controllable Face Manipulation. Yuchen Liu, Zhixin Shu, Yijun Li, Zhe Lin, Richard Zhang, and Sun-Yuan Kung. ECCV 2022. [PDF] [Project]\nInjecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis. Jeong-gi Kwak, Yuanming Li, Dongsik Yoon, Donghyeon Kim, David Han, Hanseok Ko. ECCV 2022. [PDF] [Project]\nTemporally Consistent Semantic Video Editing. Yiran Xu, Badour AlBahar, Jia-Bin Huang. ECCV 2022. [PDF] [Project]\nSound-Guided Semantic Video Generation. Seung Hyun Lee, Gyeongrok Oh, Wonmin Byeon, Jihyun Bae, Chanyoung Kim, Won Jeong Ryoo, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim. ECCV 2022. [PDF] [Project] [Code]\nEverything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration. Rishubh Parihar, Ankit Dhiman, Tejan Karmali, R. Venkatesh Babu. ACM MM 2022. [PDF] [Project]\nSD-GAN: Semantic Decomposition for Face Image Synthesis with Discrete Attribute. Zhou Kangneng, Zhu Xiaobin, Gao Daiheng, Lee Kai, Li Xinjie, Yin Xu-Cheng. ACM MM 2022. [PDF]\nIdentity-Guided Face Generation with Multi-modal Contour Conditions. Qingyan Bai, Weihao Xia, Fei Yin, Yujiu Yang. ICIP 2022. [PDF]\nSphericGAN: Semi-Supervised Hyper-Spherical Generative Adversarial Networks for Fine-Grained Image Synthesis. Tianyi Chen, Yunfei Zhang, Xiaoyang Huo, Si Wu, Yong Xu, Hau San Wong. CVPR 2022. [PDF]\nSound-Guided Semantic Image Manipulation. Seung Hyun Lee, Wonseok Roh, Wonmin Byeon, Sang Ho Yoon, Chan Young Kim, Jinkyu Kim, Sangpil Kim. CVPR 2022. [PDF]\nInsetGAN for Full-Body Image Generation. Anna Frühstück, Krishna Kumar Singh, Eli Shechtman, Niloy J. Mitra, Peter Wonka, Jingwan Lu. CVPR 2022. [PDF] [Project] [Unofficial]\nSpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing. Jing Shi, Ning Xu, Haitian Zheng, Alex Smith, Jiebo Luo, Chenliang Xu. CVPR 2022. [PDF]\nIn&Out: Diverse Image Outpainting via GAN Inversion. Yen-Chi Cheng, Chieh Hubert Lin, Hsin-Ying Lee, Jian Ren, Sergey Tulyakov, Ming-Hsuan Yang. CVPR 2022. [PDF] [Code]\nInfinityGAN: Towards Infinite-Resolution Image Synthesis. Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang. ICLR 2022. [PDF] [Project]\nLatent to Latent: A Learned Mapper for Identity Preserving Editing of Multiple. Siavash Khodadadeh, Shabnam Ghadar, Saeid Motiian, Wei-An Lin, Ladislau Bölöni, Ratheesh Kalarot. WACV 2022. [PDF]\nStyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN. Gereon Fox, Ayush Tewari, Mohamed Elgharib, Christian Theobalt. BMVC 2021 (Oral). [PDF]\nFace Image Retrieval With Attribute Manipulation. Alireza Zaeemzadeh, Shabnam Ghadar, Baldo Faieta, Zhe Lin, Nazanin Rahnavard, Mubarak Shah, Ratheesh Kalarot. ICCV 2021. [PDF]\nCoarse-to-Fine: Facial Structure Editing of Portrait Images via Latent Space Classifications. Yiqian Wu, Yongliang Yang, Qinjie Xiao, Xiaogang Ji. TOG 2021. [PDF] [Project]\nCI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis. Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao. ACM MM 2021. [PDF]\nExploring Adversarial Fake Images on Face Manifold. Dongze Li, Wei Wang, Hongxing Fan, Jing Dong. CVPR 2021. [PDF]",
@@ -1823,7 +1939,8 @@
                 "owner": "swamiviv",
                 "repo": "generative_semantic_uncertainty",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1838,7 +1955,8 @@
                 "owner": "Time-Travel-Rephotography",
                 "repo": "Time-Travel-Rephotography.github.io",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1853,7 +1971,8 @@
                 "owner": "ckkelvinchan",
                 "repo": "GLEAN",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1868,7 +1987,8 @@
                 "owner": "alex-damian",
                 "repo": "pulse",
                 "stars": 8023
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1883,7 +2003,8 @@
                 "owner": "avivga",
                 "repo": "style-image-prior",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "LTT-GAN: Looking Through Turbulence by Inverting GANs. Kangfu Mei, Vishal M. Patel. J-STSP 2023. [PDF] [Project]\nHigh-Fidelity Image Inpainting with GAN Inversion. Yongsheng Yu, Libo Zhang, Heng Fan, Tiejian Luo. ECCV 2022. [PDF]\nEscaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination. Yiqun Mei, Pengfei Guo, Vishal M. Patel. CVPR 2022. [PDF]\nTowards High-Fidelity Face Self-Occlusion Recovery via Multi-View Residual-Based GAN Inversion. Jinsong Chen, Hu Han, Shiguang Shan. AAAI 2022. [PDF]\nGPEN: GAN Prior Embedded Network for Blind Face Restoration in the Wild. Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang. CVPR 2021. [PDF] [Code]\nGFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior. Xintao Wang, Yu Li, Honglun Zhang, Ying Shan. CVPR 2021. [PDF] [Project]",
@@ -1905,7 +2026,8 @@
                 "owner": "RameenAbdal",
                 "repo": "Labels4Free",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1920,7 +2042,8 @@
                 "owner": "nv-tlabs",
                 "repo": "datasetGAN_release",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1935,7 +2058,8 @@
                 "owner": "bryandlee",
                 "repo": "repurpose-gan",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -1950,7 +2074,8 @@
                 "owner": "warmspringwinds",
                 "repo": "segmentation_in_style",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "Finding an Unsupervised Image Segmenter in each of your Deep Generative Models. Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi. ICLR 2022. [PDF]",
@@ -1972,7 +2097,8 @@
                 "owner": "seva100",
                 "repo": "stylegan-for-facerec",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": null,
@@ -1994,7 +2120,8 @@
                 "owner": "google-research",
                 "repo": "nerf-from-image",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -2009,7 +2136,8 @@
                 "owner": "junzhezhang",
                 "repo": "mesh-inversion",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -2024,7 +2152,8 @@
                 "owner": "barisgecer",
                 "repo": "OSTeC",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             },
             {
               "node_type": "item",
@@ -2039,7 +2168,8 @@
                 "owner": "XingangPan",
                 "repo": "GAN2Shape",
                 "stars": 572
-              }
+              },
+              "first_seen": "2026-08-28T17:20:40.886Z"
             }
           ],
           "description": "StyleGAN Knows Normal, Depth, Albedo, and More. Anand Bhattad, Daniel McKee, Derek Hoiem, D. A. Forsyth. NeurIPS 2023. [PDF]\nCoordGAN: Self-Supervised Dense Correspondences Emerge from GANs. Jiteng Mu, Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu. CVPR 2022. [PDF] [Project]\nNormalized Avatar Synthesis Using StyleGAN and Perceptual Refinement. Huiwen Luo, Koki Nagano, Han-Wei Kung, Mclean Goldwhite, Qingguo Xu, Zejian Wang, Lingyu Wei, Liwen Hu, Hao Li. CVPR 2021. [PDF]\nUnsupervised 3D Shape Completion through GAN-Inversion. Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy. CVPR 2021. [PDF] [Project]\nUnsupervised 3D Shape Completion through GAN-Inversion. Junzhe Zhang, Xinyi Chen, Zhongang Cai, Liang Pan, Haiyu Zhao, Shuai Yi, Chai Kiat Yeo, Bo Dai, Chen Change Loy. CVPR 2021. [PDF] [Project]",
@@ -2063,7 +2193,8 @@
                     "owner": "nik-sm",
                     "repo": "generator-surgery",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:20:40.886Z"
                 }
               ],
               "description": "Task-Aware Compressed Sensing with Generative Adversarial Networks. Maya Kabkab, Pouya Samangouei, Rama Chellappa. AAAI 2018. [PDF]",
@@ -2080,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:22:09.991Z",
+    "last_updated": "2026-08-28T17:20:40.886Z",
     "original_repository_info": {
       "archived": false,
       "id": 345286143,
