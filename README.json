@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis",
+                "homepage": null,
                 "id": 591370247,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-07T08:58:50Z",
+                "open_issues": 14,
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
-                "stars": 1197
+                "stars": 1197,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH'22] StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets",
+                "homepage": null,
                 "id": 454535315,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-24T19:12:57Z",
+                "open_issues": 45,
                 "owner": "autonomousvision",
                 "repo": "stylegan-xl",
-                "stars": 996
+                "stars": 996,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 463080800,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-04-05T08:25:37Z",
+                "open_issues": 6,
                 "owner": "self-distilled-stylegan",
                 "repo": "self-distilled-internet-photos",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -60,12 +75,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ensembling Off-the-shelf Models for GAN Training (CVPR 2022 Oral)",
+                "homepage": "https://www.cs.cmu.edu/~vision-aided-gan/",
                 "id": 439165275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-09T02:37:31Z",
+                "open_issues": 6,
                 "owner": "nupurkmr9",
                 "repo": "vision-aided-gan",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "gans",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "pretrained-models",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -76,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of StyleGAN3",
+                "homepage": null,
                 "id": 414545335,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-12T17:04:25Z",
+                "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6942,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -92,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation",
+                "homepage": "https://arxiv.org/abs/2006.06676",
                 "id": 302094934,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-02T14:00:16Z",
+                "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1829
+                "stars": 1829,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -115,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438565846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T19:59:28Z",
+                "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3338
+                "stars": 3338,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -131,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 432054324,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-26T12:00:03Z",
+                "open_issues": 13,
                 "owner": "royorel",
                 "repo": "StyleSDF",
-                "stars": 534
+                "stars": 534,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -147,12 +195,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of π-GAN, for 3d-aware image synthesis, in Pytorch",
+                "homepage": null,
                 "id": 318595612,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-02-22T19:40:40Z",
+                "open_issues": 4,
                 "owner": "lucidrains",
                 "repo": "pi-GAN-pytorch",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "film",
+                  "generative-adversarial-network",
+                  "nerf"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -176,12 +235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Official implementation of \"Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding\" in International Conference on Computer Vision (ICCV) 2023.",
+                "homepage": null,
                 "id": 666956134,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-10T03:34:13Z",
+                "open_issues": 3,
                 "owner": "jiangyzy",
                 "repo": "GOAE",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -192,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of LatentSwap3D: Semantic Edits on 3D Image GANs",
+                "homepage": null,
                 "id": 569654399,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-28T11:18:02Z",
+                "open_issues": 0,
                 "owner": "enisimsar",
                 "repo": "latentswap3d",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -208,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 571270335,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-06-14T10:23:14Z",
+                "open_issues": 16,
                 "owner": "jiaxinxie97",
                 "repo": "HFGI3D",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -224,12 +298,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] E3DGE: An encoder-based 3D StyleGAN inversion framework.",
+                "homepage": "https://nirvanalan.github.io/projects/E3DGE/index.html",
                 "id": 572001426,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-14T13:17:48Z",
+                "open_issues": 5,
                 "owner": "NIRVANALAN",
                 "repo": "CVPR23-E3DGE",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "encoder",
+                  "gan-inversion",
+                  "generative-adversarial-network",
+                  "neural-rendering",
+                  "stylegan"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -240,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of WACV 2023 paper \"3D GAN Inversion with Pose Optimization\".",
+                "homepage": null,
                 "id": 567617576,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-13T05:23:14Z",
+                "open_issues": 3,
                 "owner": "cvlab-kaist",
                 "repo": "3DGAN-Inversion",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -263,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 574970528,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-26T18:14:56Z",
+                "open_issues": 3,
                 "owner": "hamzapehlivan",
                 "repo": "StyleRes",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -279,12 +374,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official implementation of \"Intra-Source Style Augmentation for Improved Domain Generalization\" (WACV 2023 & IJCV)",
+                "homepage": null,
                 "id": 608144343,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-11T12:47:56Z",
+                "open_issues": 0,
                 "owner": "boschresearch",
                 "repo": "ISSA",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "data-augmentation",
+                  "domain-generalization",
+                  "gan",
+                  "gan-inversion",
+                  "paper-resource",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -295,12 +402,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"Pivotal Tuning for Latent-based editing of Real Images\" (ACM TOG 2022) https://arxiv.org/abs/2106.05744",
+                "homepage": null,
                 "id": 374950504,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-01T08:59:46Z",
+                "open_issues": 22,
                 "owner": "danielroich",
                 "repo": "PTI",
-                "stars": 929
+                "stars": 929,
+                "topics": [
+                  "gan-inversion",
+                  "generative-adversarial-network",
+                  "image-editing",
+                  "stylegan",
+                  "stylegan2-ada-pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -311,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TIP 2022] E2Style: Improve the Efficiency and Effectiveness of StyleGAN Inversion",
+                "homepage": null,
                 "id": 355792483,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-12T07:45:16Z",
+                "open_issues": 9,
                 "owner": "wtybest",
                 "repo": "e2style",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -327,12 +450,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] PadInv: High-fidelity GAN Inversion with Padding Space",
+                "homepage": "https://ezioby.github.io/padinv/",
                 "id": 470983495,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-17T00:45:49Z",
+                "open_issues": 3,
                 "owner": "EzioBy",
                 "repo": "padinv",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "gan-inversion",
+                  "image-editing",
+                  "image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -343,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 514277767,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-20T18:56:52Z",
+                "open_issues": 2,
                 "owner": "HaoruiSong622",
                 "repo": "Editing-Out-of-Domain",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -359,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Home of the Chunkmogrify project",
+                "homepage": null,
                 "id": 423480853,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-19T12:29:20Z",
+                "open_issues": 5,
                 "owner": "futscdav",
                 "repo": "Chunkmogrify",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -375,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 455162437,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-18T15:36:36Z",
+                "open_issues": 11,
                 "owner": "InterDigitalInc",
                 "repo": "FeatureStyleEncoder",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -391,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 511429580,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-03T07:34:43Z",
+                "open_issues": 2,
                 "owner": "xudonmao",
                 "repo": "CycleEncoding",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -407,12 +559,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] GAN inversion and editing with spatially-adaptive multiple latent layers ",
+                "homepage": null,
                 "id": 503934557,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-21T18:08:00Z",
+                "open_issues": 8,
                 "owner": "adobe-research",
                 "repo": "sam_inversion",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-manipulation",
+                  "machine-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -423,12 +589,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for \"Style Transformer for Image Inversion and Editing\" (CVPR 2022)",
+                "homepage": null,
                 "id": 469715423,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-13T09:07:50Z",
+                "open_issues": 6,
                 "owner": "sapphire497",
                 "repo": "style-transformer",
-                "stars": 181
+                "stars": 181,
+                "topics": [
+                  "attention-mechanism",
+                  "generative-adversarial-network",
+                  "stylegan2",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -439,12 +615,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2022 HFGI: High-Fidelity GAN Inversion for Image Attribute Editing",
+                "homepage": "https://tengfei-wang.github.io/HFGI/",
                 "id": 405842356,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-09-29T19:59:37Z",
+                "open_issues": 12,
                 "owner": "Tengfei-Wang",
                 "repo": "HFGI",
-                "stars": 473
+                "stars": 473,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "gan",
+                  "gan-inversion",
+                  "image-editing",
+                  "image-manipulation",
+                  "pytorch",
+                  "video-editing"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -455,12 +645,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing\" (CVPR 2022) https://arxiv.org/abs/2111.15666",
+                "homepage": "https://yuval-alaluf.github.io/hyperstyle/",
                 "id": 433516569,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-17T16:06:21Z",
+                "open_issues": 5,
                 "owner": "yuval-alaluf",
                 "repo": "hyperstyle",
-                "stars": 1027
+                "stars": 1027,
+                "topics": [
+                  "cvpr2022",
+                  "generative-adversarial-network",
+                  "hypernetworks",
+                  "stylegan",
+                  "stylegan-encoder"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -471,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for our ICCV paper: \"From Continuity to Editability: Inverting GANs with Consecutive Images\"",
+                "homepage": null,
                 "id": 390235496,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-23T06:10:20Z",
+                "open_issues": 2,
                 "owner": "cnnlstm",
                 "repo": "InvertingGANs_with_ConsecutiveImgs",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -487,12 +693,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement\" (ICCV 2021) https://arxiv.org/abs/2104.02699",
+                "homepage": "https://yuval-alaluf.github.io/restyle-encoder/",
                 "id": 355244720,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-01T11:24:16Z",
+                "open_issues": 1,
                 "owner": "yuval-alaluf",
                 "repo": "restyle-encoder",
-                "stars": 1046
+                "stars": 1046,
+                "topics": [
+                  "generative-adversarial-networks",
+                  "iccv2021",
+                  "iterative-refinement",
+                  "stylegan",
+                  "stylegan-encoder"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -503,12 +720,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] Repository for LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions",
+                "homepage": null,
                 "id": 353037438,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-23T09:06:21Z",
+                "open_issues": 3,
                 "owner": "catlab-team",
                 "repo": "latentclr",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "contrastive-learning"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -519,12 +743,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invert and perturb GAN images for test-time ensembling",
+                "homepage": null,
                 "id": 353139651,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-15T21:29:03Z",
+                "open_issues": 2,
                 "owner": "chail",
                 "repo": "gan-ensembling",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "generative-adversarial-network",
+                  "image-classfication",
+                  "image-synthesis",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -535,12 +769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Navigating the GAN Parameter Space for Semantic Image Editing",
+                "homepage": null,
                 "id": 315942582,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-06-22T09:52:59Z",
+                "open_issues": 0,
                 "owner": "yandex-research",
                 "repo": "navigan",
-                "stars": 299
+                "stars": 299,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -551,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation",
+                "homepage": null,
                 "id": 353682213,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-11-27T15:05:13Z",
+                "open_issues": 19,
                 "owner": "betterze",
                 "repo": "StyleSpace",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -567,12 +811,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation\" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework",
+                "homepage": "https://eladrich.github.io/pixel2style2pixel/",
                 "id": 300247371,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-01T11:23:39Z",
+                "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3350
+                "stars": 3350,
+                "topics": [
+                  "cvpr2021",
+                  "generative-adversarial-network",
+                  "image-translation",
+                  "pixel2style2pixel",
+                  "psp-framework",
+                  "psp-model",
+                  "stylegan",
+                  "stylegan-encoder"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -583,12 +841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021] Generative Hierarchical Features from Synthesizing Images",
+                "homepage": "https://genforce.github.io/ghfeat/",
                 "id": 281567824,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-13T12:04:57Z",
+                "open_issues": 5,
                 "owner": "genforce",
                 "repo": "ghfeat",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -599,12 +862,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2021] Official implementation: Intermediate Layer Optimization for Inverse Problems using Deep Generative Models",
+                "homepage": null,
                 "id": 312111308,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-28T12:11:44Z",
+                "open_issues": 2,
                 "owner": "giannisdaras",
                 "repo": "ilo",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "compressed-sensing",
+                  "denoising",
+                  "ilo",
+                  "inpainting",
+                  "stylegan",
+                  "stylegan-pytorch",
+                  "stylegan2",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -615,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 345422715,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-26T22:05:13Z",
+                "open_issues": 1,
                 "owner": "chail",
                 "repo": "latent-composition",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -631,12 +913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCAI 2021] Disentangled Face Attribute Editing via Instance-Aware Latent Space Search",
+                "homepage": null,
                 "id": 369697059,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-03T06:18:54Z",
+                "open_issues": 3,
                 "owner": "yxuhan",
                 "repo": "IALS",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -647,12 +934,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Designing an Encoder for StyleGAN Image Manipulation\"  (SIGGRAPH 2021) https://arxiv.org/abs/2102.02766",
+                "homepage": null,
                 "id": 335983292,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-07-15T00:35:18Z",
+                "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 998
+                "stars": 998,
+                "topics": [
+                  "encoder",
+                  "siggraph2021",
+                  "stylegan",
+                  "stylegan-encoder",
+                  "stylegan-image-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -663,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Face Identity Disentanglement via Latent Space Mapping [SIGGRAPH ASIA 2020]",
+                "homepage": "https://yotamnitzan.github.io/ID-disentanglement/",
                 "id": 321362844,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-20T10:39:48Z",
+                "open_issues": 8,
                 "owner": "YotamNitzan",
                 "repo": "ID-disentanglement",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -679,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the Proceedings of the National Academy of Sciences 2020 article, \"Understanding the Role of Individual Units in a Deep Neural Network\"",
+                "homepage": null,
                 "id": 259732765,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-09T14:43:22Z",
+                "open_issues": 7,
                 "owner": "davidbau",
                 "repo": "dissect",
-                "stars": 310
+                "stars": 310,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -695,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Face Identity Disentanglement via Latent Space Mapping [SIGGRAPH ASIA 2020]",
+                "homepage": "https://yotamnitzan.github.io/ID-disentanglement/",
                 "id": 321362844,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-20T10:39:48Z",
+                "open_issues": 8,
                 "owner": "YotamNitzan",
                 "repo": "ID-disentanglement",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -711,12 +1024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 290599131,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-26T20:41:37Z",
+                "open_issues": 0,
                 "owner": "minyoungg",
                 "repo": "GAN-Transform-and-Project",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -727,12 +1045,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rewriting a Deep Generative Model, ECCV 2020 (oral).  Interactive tool to directly edit the rules of a GAN to synthesize scenes with objects added, removed, or altered.  Change StyleGANv2 to make extravagant eyebrows, or horses wearing hats.",
+                "homepage": "https://rewriting.csail.mit.edu/",
                 "id": 283545320,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-29T09:30:42Z",
+                "open_issues": 8,
                 "owner": "davidbau",
                 "repo": "rewriting",
-                "stars": 535
+                "stars": 535,
+                "topics": [
+                  "deep-learning",
+                  "gans",
+                  "graphics",
+                  "hci",
+                  "machine-learning",
+                  "research",
+                  "vision"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -743,12 +1074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://arxiv.org/abs/2003.03581",
                 "id": 245369097,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-02T18:55:59Z",
+                "open_issues": 1,
                 "owner": "EvgenyKashin",
                 "repo": "stylegan2-distillation",
-                "stars": 1018
+                "stars": 1018,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -759,12 +1095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2020] In-Domain GAN Inversion for Real Image Editing",
+                "homepage": "https://genforce.github.io/idinvert/",
                 "id": 252335140,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-28T18:50:17Z",
+                "open_issues": 20,
                 "owner": "genforce",
                 "repo": "idinvert",
-                "stars": 453
+                "stars": 453,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -775,12 +1116,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for deep generative prior (ECCV2020 oral)",
+                "homepage": "https://arxiv.org/abs/2003.13659",
                 "id": 251384067,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-04T03:58:21Z",
+                "open_issues": 4,
                 "owner": "XingangPan",
                 "repo": "deep-generative-prior",
-                "stars": 520
+                "stars": 520,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-manipulation",
+                  "image-prior",
+                  "image-restoration"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -791,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Disentangling Invertible Interpretation Network",
+                "homepage": "https://compvis.github.io/iin/",
                 "id": 251446869,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-12T08:08:12Z",
+                "open_issues": 10,
                 "owner": "CompVis",
                 "repo": "iin",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -807,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 250119837,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-05-02T20:40:48Z",
+                "open_issues": 5,
                 "owner": "IVRL",
                 "repo": "GANLocalEditing",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -823,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2020] Image Processing Using Multi-Code GAN Prior",
+                "homepage": "https://genforce.github.io/mganprior/",
                 "id": 251552756,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-17T05:28:13Z",
+                "open_issues": 12,
                 "owner": "genforce",
                 "repo": "mganprior",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -839,12 +1207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invert a pre-trained GAN model (includes code for training a GAN on celebA)",
+                "homepage": null,
                 "id": 117117494,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-11-22T16:20:58Z",
+                "open_issues": 1,
                 "owner": "ToniCreswell",
                 "repo": "InvertingGAN",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -855,12 +1228,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " NIPS 2018 \"Invertibility of Convolutional Generative Networks from Partial Measurements\"",
+                "homepage": null,
                 "id": 154722182,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2019-03-09T06:20:24Z",
+                "open_issues": 1,
                 "owner": "fangchangma",
                 "repo": "invert-generative-networks",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "deep-learning",
+                  "depth-completion",
+                  "gan",
+                  "image-inpainting",
+                  "matlab",
+                  "neural-network",
+                  "neurips",
+                  "nips"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -871,12 +1258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recovering latent vectors from Generative Adversarial Networks",
+                "homepage": null,
                 "id": 87130144,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2017-06-24T00:14:56Z",
+                "open_issues": 1,
                 "owner": "SubarnaTripathi",
                 "repo": "ReverseGAN",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -887,12 +1279,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improved StyleGAN Embedding: Where are the Good Latents?",
+                "homepage": null,
                 "id": 382127342,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-02T01:02:54Z",
+                "open_issues": 2,
                 "owner": "ZPdesu",
                 "repo": "II2S",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "deeo-learning",
+                  "gan",
+                  "generative-model",
+                  "image-embedding"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -914,12 +1316,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICML23 \"Latent Traversals in Generative Models as Potential Flows\"",
+            "homepage": "https://arxiv.org/abs/2304.12944",
             "id": 619824834,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-23T11:26:02Z",
+            "open_issues": 0,
             "owner": "KingJamesSong",
             "repo": "PDETraversal",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "disentanglement-learning",
+              "generative-adversarial-network",
+              "variational-autoencoder"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -930,12 +1341,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'23] Code to reproduce the results in the paper \"PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs\"",
+            "homepage": "https://james-oldfield.github.io/PandA",
             "id": 468060350,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-08T12:50:08Z",
+            "open_issues": 0,
             "owner": "james-oldfield",
             "repo": "PandA",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "gans",
+              "interpretable-directions",
+              "local-image-editing"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -946,12 +1366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 514364681,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-27T15:29:54Z",
+            "open_issues": 0,
             "owner": "zikuncshelly",
             "repo": "GradCtrl",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -962,12 +1387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions (SIGGRAPH 2022)",
+            "homepage": null,
             "id": 487954562,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-26T09:07:10Z",
+            "open_issues": 6,
             "owner": "RameenAbdal",
             "repo": "CLIP2StyleGAN",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -978,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2022] Region-Based Semantic Factorization in GANs",
+            "homepage": "https://zhujiapeng.github.io/resefa/",
             "id": 461240135,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-24T13:49:25Z",
+            "open_issues": 8,
             "owner": "zhujiapeng",
             "repo": "resefa",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -994,12 +1429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 22, TPAMI 24] LIA: Latent Image Animator",
+            "homepage": "https://wyhsirius.github.io/LIA-project/",
             "id": 469335041,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-22T06:14:37Z",
+            "open_issues": 21,
             "owner": "wyhsirius",
             "repo": "LIA",
-            "stars": 651
+            "stars": 651,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1010,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of LARGE: Latent-Based Regression through GAN Semantics ",
+            "homepage": null,
             "id": 376640071,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-22T14:10:56Z",
+            "open_issues": 1,
             "owner": "YotamNitzan",
             "repo": "LARGE",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1026,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 386322667,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-02-02T14:57:32Z",
+            "open_issues": 5,
             "owner": "OmerKafri",
             "repo": "StyleFusion",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1042,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[BMVC 2021]",
+            "homepage": null,
             "id": 430838208,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-18T09:26:10Z",
+            "open_issues": 0,
             "owner": "james-oldfield",
             "repo": "TCA",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1058,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021] Low-Rank Subspaces in GANs",
+            "homepage": "https://zhujiapeng.github.io/LowRankGAN/",
             "id": 374890055,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-24T13:47:59Z",
+            "open_issues": 3,
             "owner": "zhujiapeng",
             "repo": "LowRankGAN",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1074,12 +1534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for paper: A Latent Transformer for Disentangled Face Editing in Images and Videos.",
+            "homepage": "https://arxiv.org/abs/2106.11895",
             "id": 396966429,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-20T09:39:24Z",
+            "open_issues": 2,
             "owner": "InterDigitalInc",
             "repo": "latent-transformer",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1090,12 +1555,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " [ICCV 2021] Authors official PyTorch implementation of the \"WarpedGANSpace: Finding non-linear RBF paths in GAN latent space\".",
+            "homepage": null,
             "id": 349037661,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-08T12:39:26Z",
+            "open_issues": 1,
             "owner": "chi0tzp",
             "repo": "WarpedGANSpace",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "gan",
+              "interpretability",
+              "non-linear-paths",
+              "rbf"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1106,12 +1581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 321347004,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-12-14T12:59:25Z",
+            "open_issues": 0,
             "owner": "KhrulkovV",
             "repo": "nonlinear-image-editing",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1122,12 +1602,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (ICCV 2021)",
+            "homepage": null,
             "id": 389025558,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T23:24:57Z",
+            "open_issues": 1,
             "owner": "csyxwei",
             "repo": "OroJaR",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "disentanglement",
+              "iccv2021"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1138,12 +1626,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV'21] EigenGAN: Layer-Wise Eigen-Learning for GANs",
+            "homepage": null,
             "id": 361605068,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-06T02:40:08Z",
+            "open_issues": 0,
             "owner": "LynnHo",
             "repo": "EigenGAN-Tensorflow",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "eigengan",
+              "gan",
+              "gans"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1154,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404728553,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-20T09:18:17Z",
+            "open_issues": 2,
             "owner": "BERYLSHEEP",
             "repo": "AdvStyle",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1170,12 +1672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Closed-Form Factorization of Latent Semantics in GANs",
+            "homepage": "https://genforce.github.io/sefa/",
             "id": 279760284,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-04T07:28:10Z",
+            "open_issues": 13,
             "owner": "genforce",
             "repo": "sefa",
-            "stars": 965
+            "stars": 965,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1186,12 +1693,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2021 Spotlight] A Good Image Generator Is What You Need for High-Resolution Video Synthesis",
+            "homepage": null,
             "id": 348807180,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-04T02:33:37Z",
+            "open_issues": 2,
             "owner": "snap-research",
             "repo": "MoCoGAN-HD",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "image-generation",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1202,12 +1719,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discovering Interpretable GAN Controls [NeurIPS 2020]",
+            "homepage": null,
             "id": 252421215,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-20T21:23:23Z",
+            "open_issues": 29,
             "owner": "harskish",
             "repo": "ganspace",
-            "stars": 1794
+            "stars": 1794,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "generative-adversarial-network",
+              "image-generation",
+              "interactive-visualizations",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1218,12 +1747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2020] Interpreting the Latent Space of GANs for Semantic Face Editing",
+            "homepage": "https://genforce.github.io/interfacegan/",
             "id": 199051211,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-09T02:20:04Z",
+            "open_issues": 44,
             "owner": "genforce",
             "repo": "interfacegan",
-            "stars": 1561
+            "stars": 1561,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1234,12 +1768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The authors official implementation of Unsupervised Discovery of Interpretable Directions in the GAN Latent Space",
+            "homepage": null,
             "id": 239498856,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-03T22:35:26Z",
+            "open_issues": 19,
             "owner": "anvoynov",
             "repo": "GANLatentDiscovery",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         }
@@ -1256,12 +1795,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2025] Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing",
+            "homepage": "https://pengchengpcx.github.io/EditFT/",
             "id": 894337304,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-23T07:30:53Z",
+            "open_issues": 0,
             "owner": "Pengchengpcx",
             "repo": "FTEdit",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "diffusion-transformer",
+              "flow-matching",
+              "image-editing",
+              "inversion",
+              "rectified-flow"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1272,12 +1822,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official pytorch implementation of the paper: \"An Edit Friendly DDPM Noise Space: Inversion and Manipulations\". CVPR 2024. ",
+            "homepage": "https://inbarhub.github.io/DDPM_inversion/",
             "id": 629968895,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-11T21:46:22Z",
+            "open_issues": 1,
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "ddpm",
+              "editing",
+              "generative-model",
+              "inversion",
+              "latent-space",
+              "text-guided-image-editing",
+              "text-guided-image-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1288,12 +1851,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR2024] Official repo for paper \"PnP Inversion: Boosting Diffusion-based Editing with 3 Lines of Code\"",
+            "homepage": null,
             "id": 699727627,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-03-12T11:34:16Z",
+            "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "deep-learning",
+              "diffusion-inversion",
+              "diffusion-model",
+              "diffusion-models",
+              "iclr2024",
+              "image-editing",
+              "image-generation",
+              "paper-implementation",
+              "paper-implementations",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1304,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 544831636,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-14T08:06:32Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456
+            "stars": 3456,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1320,12 +1904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 575648170,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:15:46Z",
+            "open_issues": 8,
             "owner": "salesforce",
             "repo": "EDICT",
-            "stars": 322
+            "stars": 322,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1336,12 +1925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 520601970,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-02-27T08:16:02Z",
+            "open_issues": 52,
             "owner": "rinongal",
             "repo": "textual_inversion",
-            "stars": 3055
+            "stars": 3055,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1352,12 +1946,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 544831636,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-14T08:06:32Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456
+            "stars": 3456,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         }
@@ -1374,12 +1973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation",
+            "homepage": null,
             "id": 784932387,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-14T15:22:05Z",
+            "open_issues": 5,
             "owner": "hangligit",
             "repo": "InterpretDiffusion",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1390,12 +1994,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official pytorch implementation of the paper: \"An Edit Friendly DDPM Noise Space: Inversion and Manipulations\". CVPR 2024. ",
+            "homepage": "https://inbarhub.github.io/DDPM_inversion/",
             "id": 629968895,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-11T21:46:22Z",
+            "open_issues": 1,
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "ddpm",
+              "editing",
+              "generative-model",
+              "inversion",
+              "latent-space",
+              "text-guided-image-editing",
+              "text-guided-image-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         },
@@ -1406,12 +2023,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] A latent space for stochastic diffusion models",
+            "homepage": null,
             "id": 547919119,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-31T04:31:33Z",
+            "open_issues": 1,
             "owner": "ChenWu98",
             "repo": "cycle-diffusion",
-            "stars": 659
+            "stars": 659,
+            "topics": [
+              "diffusion-models",
+              "generative-models",
+              "image-synthesis",
+              "image-to-image-translation",
+              "score-based-generative-models",
+              "stable-diffusion",
+              "text-to-image",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
         }
@@ -1430,12 +2061,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS25] WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting",
+                "homepage": null,
                 "id": 1096303275,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-14T08:56:28Z",
+                "open_issues": 0,
                 "owner": "Huang-KT",
                 "repo": "WarpGAN",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1446,12 +2082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 747613016,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-14T07:18:03Z",
+                "open_issues": 5,
                 "owner": "1211sh",
                 "repo": "Diffusion-driven_GAN-Inversion",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1462,12 +2103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of \"The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing\"",
+                "homepage": null,
                 "id": 927295714,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-02-06T15:05:13Z",
+                "open_issues": 1,
                 "owner": "ControlGenAI",
                 "repo": "StyleFeatureEditor",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1478,12 +2124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository of \"Encode-in-Style: Latent-based Video Encoding using StyleGAN2\"",
+                "homepage": null,
                 "id": 473334397,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-15T14:00:32Z",
+                "open_issues": 3,
                 "owner": "trevineoorloff",
                 "repo": "ExpressiveFaceVideoEncoding",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1494,12 +2145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delving StyleGAN Inversion for Image Editing: A Foundation Latent Space Viewpoint. CVPR 2023",
+                "homepage": null,
                 "id": 568813178,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-10T18:31:08Z",
+                "open_issues": 2,
                 "owner": "KumapowerLIU",
                 "repo": "CLCAE",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1510,12 +2166,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a simple demo for \"Modeling GAN Latent Dynamics using Neural ODEs\".",
+                "homepage": "https://arxiv.org/abs/2208.11197",
                 "id": 616134645,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-27T22:37:46Z",
+                "open_issues": 0,
                 "owner": "weihaox",
                 "repo": "DynODE",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "gan-inversion",
+                  "video-processing"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1526,12 +2190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 450300319,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-17T21:13:09Z",
+                "open_issues": 36,
                 "owner": "rotemtzaban",
                 "repo": "STIT",
-                "stars": 1197
+                "stars": 1197,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1542,12 +2211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 406235172,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-23T06:31:17Z",
+                "open_issues": 4,
                 "owner": "phycvgan",
                 "repo": "DyStyle",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1558,12 +2232,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] (Amortized) distributional control for pre-trained generative models",
+                "homepage": null,
                 "id": 536792275,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-04T15:55:38Z",
+                "open_issues": 0,
                 "owner": "ChenWu98",
                 "repo": "generative-visual-prompt",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "diffusion-models",
+                  "energy-based-model",
+                  "generative-adversarial-networks",
+                  "generative-models",
+                  "image-synthesis",
+                  "invertible-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1574,12 +2260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 491810319,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-11-17T07:20:50Z",
+                "open_issues": 2,
                 "owner": "zhangzc21",
                 "repo": "Generalized-One-shot-GAN-Adaptation",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1590,12 +2281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch repo for JoJoGAN: One Shot Face Stylization",
+                "homepage": null,
                 "id": 439414271,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-09-29T18:53:09Z",
+                "open_issues": 18,
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
-                "stars": 1438
+                "stars": 1438,
+                "topics": [
+                  "anime",
+                  "gans",
+                  "image-translation"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1606,12 +2306,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022, Oral Presentation] Official PyTorch implementation of GMPI ",
+                "homepage": null,
                 "id": 515737529,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-25T17:06:56Z",
+                "open_issues": 1,
                 "owner": "apple",
                 "repo": "ml-gmpi",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "3d",
+                  "eccv2022",
+                  "generative-adversarial-network",
+                  "generative-model",
+                  "multiplane-images",
+                  "neural-rendering",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1622,12 +2335,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of \"Third Time's the Charm? Image and Video Editing with StyleGAN3\" (AIM ECCVW 2022) https://arxiv.org/abs/2201.13433 ",
+                "homepage": "https://yuval-alaluf.github.io/stylegan3-editing/",
                 "id": 454114715,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-06T05:21:18Z",
+                "open_issues": 2,
                 "owner": "yuval-alaluf",
                 "repo": "stylegan3-editing",
-                "stars": 686
+                "stars": 686,
+                "topics": [
+                  "generative-adversarial-network",
+                  "image-editing",
+                  "stylegan",
+                  "stylegan-encoder",
+                  "stylegan3"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1638,12 +2362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 456881863,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-07-11T07:33:20Z",
+                "open_issues": 1,
                 "owner": "yzliu567",
                 "repo": "sc-gan",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1654,12 +2383,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://stylegan-nada.github.io/",
                 "id": 379050021,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-29T17:52:46Z",
+                "open_issues": 14,
                 "owner": "rinongal",
                 "repo": "StyleGAN-nada",
-                "stars": 1195
+                "stars": 1195,
+                "topics": [
+                  "domain-adaptation",
+                  "generative-adversarial-network",
+                  "stylegan"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1670,12 +2408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image",
+                "homepage": null,
                 "id": 435410428,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-04-24T17:18:26Z",
+                "open_issues": 26,
                 "owner": "wtybest",
                 "repo": "HairCLIP",
-                "stars": 593
+                "stars": 593,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1686,12 +2429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dataset that contains 6,000 non-hair FFHQ portraits. ",
+                "homepage": "https://onethousandwu.com/HairMapper.github.io/",
                 "id": 467750575,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-25T10:43:18Z",
+                "open_issues": 2,
                 "owner": "oneThousand1000",
                 "repo": "non-hair-FFHQ",
-                "stars": 375
+                "stars": 375,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1702,12 +2450,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A implementation of Attribute Group Editing for Reliable Few-shot Image Generation (CVPR 2022)",
+                "homepage": null,
                 "id": 466022306,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-12T03:13:00Z",
+                "open_issues": 10,
                 "owner": "UniBester",
                 "repo": "AGE",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1718,12 +2475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation\" (SIGGRAPH 2021)",
+                "homepage": null,
                 "id": 364178714,
                 "language": null,
+                "license": "AGPL-3.0",
                 "last_commit": "2021-04-30T06:34:13Z",
+                "open_issues": 0,
                 "owner": "PeterZhouSZ",
                 "repo": "StyleCariGAN",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1734,12 +2496,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"Only a Matter of Style: Age Transformation Using a Style-Based Regression Model\" (SIGGRAPH 2021) https://arxiv.org/abs/2102.02754",
+                "homepage": "https://yuval-alaluf.github.io/SAM/",
                 "id": 336035149,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-07T11:50:20Z",
+                "open_issues": 10,
                 "owner": "yuval-alaluf",
                 "repo": "SAM",
-                "stars": 723
+                "stars": 723,
+                "topics": [
+                  "age-transformation",
+                  "aging",
+                  "generative-adversarial-networks",
+                  "stylegan"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1750,12 +2522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)",
+                "homepage": "https://zpdesu.github.io/Barbershop/",
                 "id": 373140682,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-25T17:53:30Z",
+                "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1440
+                "stars": 1440,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1766,12 +2543,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the MM'21 paper \"Constrained Graphic Layout Generation via Latent Optimization\" (LayoutGAN++, CLG-LO, and Layout evaluation)",
+                "homepage": "https://ktrk115.github.io/const_layout/",
                 "id": 382986154,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-07-24T09:29:14Z",
+                "open_issues": 4,
                 "owner": "ktrk115",
                 "repo": "const_layout",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "augmented-lagrangian-method",
+                  "cma-es",
+                  "generative-adversarial-network",
+                  "latent-space",
+                  "layoutgan",
+                  "pretrained-models",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1782,12 +2572,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021). ",
+                "homepage": null,
                 "id": 242064069,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-02-25T23:08:57Z",
+                "open_issues": 9,
                 "owner": "mahmoudnafifi",
                 "repo": "HistoGAN",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "color-histogram",
+                  "color-transfer",
+                  "cvpr",
+                  "cvpr2021",
+                  "deep-learning",
+                  "deeplearning",
+                  "gan",
+                  "gans",
+                  "histogram",
+                  "image-editing",
+                  "image-manipulation",
+                  "image-recoloring",
+                  "pytorch",
+                  "recoloring",
+                  "style-transfer",
+                  "style-transfer-algorithms",
+                  "style-transfers",
+                  "stylegan",
+                  "stylegan2"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1798,12 +2613,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One Shot Face Swapping on Megapixels.",
+                "homepage": null,
                 "id": 345092914,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-29T01:50:09Z",
+                "open_issues": 26,
                 "owner": "zyainfal",
                 "repo": "One-Shot-Face-Swapping-on-Megapixels",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "1024",
+                  "cvpr2021",
+                  "face-swapping"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1814,12 +2638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo code for \"LOHO: Latent Optimization of Hairstyles via Orthogonalization\".",
+                "homepage": null,
                 "id": 315418993,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-01T14:32:16Z",
+                "open_issues": 7,
                 "owner": "dukebw",
                 "repo": "LOHO",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1830,12 +2659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official pytorch implementation of StyleMapGAN (CVPR 2021)",
+                "homepage": "https://www.youtube.com/watch?v=qCapNyRA_Ng",
                 "id": 357048733,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-15T04:44:36Z",
+                "open_issues": 19,
                 "owner": "naver-ai",
                 "repo": "StyleMapGAN",
-                "stars": 461
+                "stars": 461,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1846,12 +2680,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021] Multi-Modal-CelebA-HQ: A Large-Scale Text-Driven Face Generation and Understanding Dataset",
+                "homepage": "https://arxiv.org/abs/2012.03308",
                 "id": 306326597,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-01T11:40:04Z",
+                "open_issues": 0,
                 "owner": "IIGROUP",
                 "repo": "MM-CelebA-HQ-Dataset",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "face-image-data",
+                  "multimodal-data",
+                  "text-to-image-diffusion",
+                  "text-to-image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1862,12 +2706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image-to-image translation, knowledge transfer",
+                "homepage": null,
                 "id": 306268665,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-01-15T08:04:07Z",
+                "open_issues": 1,
                 "owner": "yaxingwang",
                 "repo": "DeepI2I",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1878,12 +2727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+                "homepage": "https://i.am.ai/roadmap",
                 "id": 670117585,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-24T11:04:55Z",
+                "open_issues": 0,
                 "owner": "saic-mdal",
                 "repo": "deep-landscape",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1894,12 +2748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of few-shot semantic image synthesis",
+                "homepage": null,
                 "id": 366645590,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-22T02:07:35Z",
+                "open_issues": 2,
                 "owner": "endo-yuki-t",
                 "repo": "Fewshot-SMIS",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1910,12 +2769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 448456132,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-29T21:08:10Z",
+                "open_issues": 0,
                 "owner": "alexandonian",
                 "repo": "paint-by-word",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -1933,12 +2797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 516065492,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-07-20T23:07:33Z",
+                "open_issues": 0,
                 "owner": "swamiviv",
                 "repo": "generative_semantic_uncertainty",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1949,12 +2818,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We simulate traveling back in time with a modern camera to rephotograph famous historical subjects.",
+                "homepage": "https://time-travel-rephotography.github.io/",
                 "id": 322735691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-26T19:52:48Z",
+                "open_issues": 23,
                 "owner": "Time-Travel-Rephotography",
                 "repo": "Time-Travel-Rephotography.github.io",
-                "stars": 345
+                "stars": 345,
+                "topics": [
+                  "colorization",
+                  "old-photo-restoration",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1965,12 +2843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 371295433,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-06-09T09:15:21Z",
+                "open_issues": 7,
                 "owner": "ckkelvinchan",
                 "repo": "GLEAN",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1981,12 +2864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+                "homepage": null,
                 "id": 265645902,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-30T11:50:25Z",
+                "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8023
+                "stars": 8023,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -1997,12 +2885,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of \"Style Generator Inversion for Image Enhancement and Animation\".",
+                "homepage": "http://www.vision.huji.ac.il/style-image-prior",
                 "id": 329032678,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-02T16:58:37Z",
+                "open_issues": 0,
                 "owner": "avivga",
                 "repo": "style-image-prior",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "face-animation",
+                  "gans",
+                  "inpainting",
+                  "stylegan",
+                  "super-resolution",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -2020,12 +2920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://rameenabdal.github.io/Labels4Free/ (ICCV 2021)",
+                "homepage": null,
                 "id": 352056902,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-14T08:27:54Z",
+                "open_issues": 6,
                 "owner": "RameenAbdal",
                 "repo": "Labels4Free",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -2036,12 +2941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 376613559,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-11T03:30:08Z",
+                "open_issues": 16,
                 "owner": "nv-tlabs",
                 "repo": "datasetGAN_release",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -2052,12 +2962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Repurposing GANs for One-shot Semantic Part Segmentation",
+                "homepage": null,
                 "id": 347553468,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-03-16T23:11:30Z",
+                "open_issues": 8,
                 "owner": "bryandlee",
                 "repo": "repurpose-gan",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -2068,12 +2983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://arxiv.org/abs/2107.12518",
+                "homepage": null,
                 "id": 386472707,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-08-15T23:53:02Z",
+                "open_issues": 6,
                 "owner": "warmspringwinds",
                 "repo": "segmentation_in_style",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -2091,12 +3011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"How to Boost Face Recognition with StyleGAN?\"",
+                "homepage": null,
                 "id": 490741861,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-08T11:23:11Z",
+                "open_issues": 1,
                 "owner": "seva100",
                 "repo": "stylegan-for-facerec",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -2114,12 +3039,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion",
+                "homepage": null,
                 "id": 561364252,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-20T06:31:29Z",
+                "open_issues": 9,
                 "owner": "google-research",
                 "repo": "nerf-from-image",
-                "stars": 397
+                "stars": 397,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -2130,12 +3060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] Monocular 3D Object Reconstruction with GAN Inversion",
+                "homepage": null,
                 "id": 513436840,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-13T06:46:49Z",
+                "open_issues": 0,
                 "owner": "junzhezhang",
                 "repo": "mesh-inversion",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -2146,12 +3081,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TF implementation of our CVPR 2021 paper: OSTeC: One-Shot Texture Completion ",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2021/html/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.html",
                 "id": 325658650,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-29T13:57:21Z",
+                "open_issues": 13,
                 "owner": "barisgecer",
                 "repo": "OSTeC",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "3d-face-reconstruction",
+                  "3dmm",
+                  "face-frontalization",
+                  "texture-completion",
+                  "texture-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             },
@@ -2162,12 +3108,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for GAN2Shape (ICLR2021 oral)",
+                "homepage": "https://arxiv.org/abs/2011.00844",
                 "id": 309326870,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-04T03:56:43Z",
+                "open_issues": 35,
                 "owner": "XingangPan",
                 "repo": "GAN2Shape",
-                "stars": 572
+                "stars": 572,
+                "topics": [
+                  "3d-reconstruction",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "inverse-graphics"
+                ]
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
             }
@@ -2187,12 +3144,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"Generator Surgery for Compressed Sensing\" - NeurIPS 2020 Deep Inverse Workshop",
+                    "homepage": "https://arxiv.org/pdf/2102.11163.pdf",
                     "id": 271101119,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-10-25T23:51:37Z",
+                    "open_issues": 0,
                     "owner": "nik-sm",
                     "repo": "generator-surgery",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:20:40.886Z"
                 }
@@ -2211,15 +3173,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:20:40.886Z",
+    "last_updated": "2026-08-29T04:38:22.306Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[TPAMI 2022] GAN Inversion: A Survey",
+      "homepage": "https://arxiv.org/abs/2101.05278",
       "id": 345286143,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2026-07-14T02:45:22Z",
+      "open_issues": 0,
       "owner": "weihaox",
       "repo": "GAN-Inversion",
-      "stars": 1127
+      "stars": 1127,
+      "topics": [
+        "awesome-list",
+        "gan-inversion"
+      ]
     },
     "original_repository_sha": "0cd8dea8ce948fc54d5f89f5e3cc130203e78da1",
     "enhanced_repository": "enhansome/enhansome-GAN-Inversion",
