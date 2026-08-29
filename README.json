@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1440,
+                "stars": 1441,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:22.306Z",
+    "last_updated": "2026-08-29T11:34:57.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
