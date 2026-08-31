@@ -106,7 +106,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,942 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,941 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -114,7 +114,7 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,833 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,184 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,833 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,185 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
@@ -840,7 +840,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.09273)] \[[Project](https://kuai-l
 
 **Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
 *Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
-ECCV 2022 Workshop on Advances in Image Manipulation. \[[PDF](https://arxiv.org/abs/2201.13433)] \[[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] \[[Code](https://github.com/yuval-alaluf/stylegan3-editing) ⭐ 686 | 🐛 2 | 🌐 Python | 📅 2022-10-06]
+ECCV 2022 Workshop on Advances in Image Manipulation. \[[PDF](https://arxiv.org/abs/2201.13433)] \[[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] \[[Code](https://github.com/yuval-alaluf/stylegan3-editing) ⭐ 685 | 🐛 2 | 🌐 Python | 📅 2022-10-06]
 
 **Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration.**<br>
 *Rishubh Parihar, Ankit Dhiman, Tejan Karmali, R. Venkatesh Babu.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

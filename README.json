@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942,
+                "stars": 6941,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2344,7 +2344,7 @@
                 "open_issues": 2,
                 "owner": "yuval-alaluf",
                 "repo": "stylegan3-editing",
-                "stars": 686,
+                "stars": 685,
                 "topics": [
                   "generative-adversarial-network",
                   "image-editing",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:26:31.477Z",
+    "last_updated": "2026-08-31T11:32:06.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
