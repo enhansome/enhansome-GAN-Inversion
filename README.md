@@ -94,7 +94,7 @@ ICML 2023. \[[Project](https://sites.google.com/view/stylegan-t/)]    \[[PDF](ht
 
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2202.00273)] \[[Project](https://sites.google.com/view/stylegan-xl/)] \[[Code](https://github.com/autonomousvision/stylegan_xl) ⭐ 996 | 🐛 45 | 🌐 Python | 📅 2024-06-24]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2202.00273)] \[[Project](https://sites.google.com/view/stylegan-xl/)] \[[Code](https://github.com/autonomousvision/stylegan_xl) ⭐ 995 | 🐛 45 | 🌐 Python | 📅 2024-06-24]
 
 **Self-Distilled StyleGAN: Towards Generation from Internet Photos.**<br>
 *[Ron Mokady](https://rmokady.github.io/), Michal Yarom, Omer Tov, Oran Lang, Daniel Cohen-Or, Tali Dekel, Michal Irani, Inbar Mosseri.*<br>
@@ -102,7 +102,7 @@ SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2202.12211)] \[[Project](https://se
 
 **Ensembling Off-the-shelf Models for GAN Training.**<br>
 [Nupur Kumari](https://nupurkmr9.github.io/), [Richard Zhang](https://richzhang.github.io/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<br>
-CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://www.cs.cmu.edu/~vision-aided-gan/)] \[[Code](https://github.com/nupurkmr9/vision-aided-gan) ⭐ 421 | 🐛 6 | 🌐 Python | 📅 2022-09-09]
+CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://www.cs.cmu.edu/~vision-aided-gan/)] \[[Code](https://github.com/nupurkmr9/vision-aided-gan) ⭐ 422 | 🐛 6 | 🌐 Python | 📅 2022-09-09]
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
@@ -114,11 +114,11 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,833 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,185 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,833 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,186 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,415 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,414 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
@@ -884,7 +884,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.08422)] \[[Code](https://github.co
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07293)] \[[Project](http://afruehstueck.github.io/insetgan)] \[[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py) ⭐ 1,189 | 🐛 27 | 🌐 Python | 📅 2025-01-26]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07293)] \[[Project](http://afruehstueck.github.io/insetgan)] \[[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py) ⭐ 1,190 | 🐛 27 | 🌐 Python | 📅 2025-01-26]
 
 **SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing.**<br>
 *[Jing Shi](https://www.cs.rochester.edu/u/jshi31/), [Ning Xu](https://sites.google.com/view/ningxu/), [Haitian Zheng](https://www.cs.rochester.edu/u/hzheng15/haitian_homepage/index.html), Alex Smith, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,024 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,023 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

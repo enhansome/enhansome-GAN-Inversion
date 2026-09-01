@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "autonomousvision",
                 "repo": "stylegan-xl",
-                "stars": 996,
+                "stars": 995,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -84,7 +84,7 @@
                 "open_issues": 6,
                 "owner": "nupurkmr9",
                 "repo": "vision-aided-gan",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8024,
+                "stars": 8023,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:32:06.499Z",
+    "last_updated": "2026-09-01T09:56:52.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
