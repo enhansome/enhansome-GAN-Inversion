@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3337,
+                "stars": 3336,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -922,7 +922,7 @@
                 "open_issues": 3,
                 "owner": "yxuhan",
                 "repo": "IALS",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8022,
+                "stars": 8021,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:57:48.287Z",
+    "last_updated": "2026-09-06T09:18:30.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
