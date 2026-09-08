@@ -134,7 +134,7 @@
                 "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3336,
+                "stars": 3337,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1860,7 +1860,7 @@
             "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 411,
+            "stars": 413,
             "topics": [
               "deep-learning",
               "diffusion-inversion",
@@ -2112,7 +2112,7 @@
                 "open_issues": 1,
                 "owner": "ControlGenAI",
                 "repo": "StyleFeatureEditor",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8021,
+                "stars": 8022,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:08:18.982Z",
+    "last_updated": "2026-09-08T09:32:51.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
