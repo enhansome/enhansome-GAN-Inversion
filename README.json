@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6939,
+                "stars": 6940,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -134,7 +134,7 @@
                 "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1829,
+                "stars": 1828,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -204,7 +204,7 @@
                 "open_issues": 4,
                 "owner": "lucidrains",
                 "repo": "pi-GAN-pytorch",
-                "stars": 125,
+                "stars": 124,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -624,7 +624,7 @@
                 "open_issues": 12,
                 "owner": "Tengfei-Wang",
                 "repo": "HFGI",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -654,7 +654,7 @@
                 "open_issues": 5,
                 "owner": "yuval-alaluf",
                 "repo": "hyperstyle",
-                "stars": 1027,
+                "stars": 1028,
                 "topics": [
                   "cvpr2022",
                   "generative-adversarial-network",
@@ -943,7 +943,7 @@
                 "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "encoder",
                   "siggraph2021",
@@ -991,7 +991,7 @@
                 "open_issues": 7,
                 "owner": "davidbau",
                 "repo": "dissect",
-                "stars": 310,
+                "stars": 307,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1635,7 +1635,7 @@
             "open_issues": 0,
             "owner": "LynnHo",
             "repo": "EigenGAN-Tensorflow",
-            "stars": 341,
+            "stars": 338,
             "topics": [
               "eigengan",
               "gan",
@@ -1860,7 +1860,7 @@
             "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 413,
+            "stars": 414,
             "topics": [
               "deep-learning",
               "diffusion-inversion",
@@ -2505,7 +2505,7 @@
                 "open_issues": 10,
                 "owner": "yuval-alaluf",
                 "repo": "SAM",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "age-transformation",
                   "aging",
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1440,
+                "stars": 1439,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:32:51.731Z",
+    "last_updated": "2026-09-09T09:35:45.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
