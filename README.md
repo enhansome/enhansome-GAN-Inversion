@@ -106,7 +106,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,940 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,941 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -360,7 +360,7 @@ TOG 2020. \[[PDF](http://gvv.mpi-inf.mpg.de/projects/PIE/data/paper.pdf)] \[[Pro
 
 **Face Identity Disentanglement via Latent Space Mapping.**<br>
 *[Yotam Nitzan](https://yotamnitzan.github.io/), [Amit Bermano](https://www.cs.tau.ac.il/~amberman/), [Yangyan Li](https://yangyan.li/), Daniel Cohen-Or.*<br>
-SIGGRAPH Asia 2020. \[[PDF](https://arxiv.org/abs/2005.07728)] \[[Project](https://yotamnitzan.github.io/ID-disentanglement/)] \[[Code](https://github.com/YotamNitzan/ID-disentanglement) ⭐ 175 | 🐛 8 | 🌐 Python | 📅 2022-07-20]
+SIGGRAPH Asia 2020. \[[PDF](https://arxiv.org/abs/2005.07728)] \[[Project](https://yotamnitzan.github.io/ID-disentanglement/)] \[[Code](https://github.com/YotamNitzan/ID-disentanglement) ⭐ 176 | 🐛 8 | 🌐 Python | 📅 2022-07-20]
 
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
@@ -368,7 +368,7 @@ National Academy of Sciences 2020. \[[PDF](https://arxiv.org/abs/2009.05041)] \[
 
 **Face Identity Disentanglement via Latent Space Mapping.**<br>
 *Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
-TOG 2020. \[[PDF](https://arxiv.org/abs/2005.07728)] \[[Code](https://github.com/YotamNitzan/ID-disentanglement) ⭐ 175 | 🐛 8 | 🌐 Python | 📅 2022-07-20]
+TOG 2020. \[[PDF](https://arxiv.org/abs/2005.07728)] \[[Code](https://github.com/YotamNitzan/ID-disentanglement) ⭐ 176 | 🐛 8 | 🌐 Python | 📅 2022-07-20]
 
 **Transforming and Projecting Images into Class-conditional Generative Networks.**<br>
 *[Minyoung Huh](http://minyounghuh.com/), [Richard Zhang](https://richzhang.github.io/), [Jun-Yan Zhu](https://people.csail.mit.edu/junyanz/), [Sylvain Paris](http://people.csail.mit.edu/sparis/), [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/).*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,022 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,023 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
