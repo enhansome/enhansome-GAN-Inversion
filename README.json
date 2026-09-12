@@ -2311,9 +2311,9 @@
                 "id": 515737529,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2024-07-25T17:06:56Z",
+                "last_commit": "2026-09-11T15:57:06Z",
                 "open_issues": 1,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-gmpi",
                 "stars": 344,
                 "topics": [
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:32:29.974Z",
+    "last_updated": "2026-09-12T09:11:38.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
