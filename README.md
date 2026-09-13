@@ -106,7 +106,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,942 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,943 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -920,7 +920,7 @@ TOG 2021. \[[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] \[[Pr
 
 **SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com/yuval-alaluf/SAM) ⭐ 724 | 🐛 10 | 🌐 Python | 📅 2024-01-07]
+TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com/yuval-alaluf/SAM) ⭐ 725 | 🐛 10 | 🌐 Python | 📅 2024-01-07]
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
@@ -956,7 +956,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2104.14754)] \[[Code](https://github.co
 
 **TediGAN: Text-Guided Diverse Image Generation and Manipulation.**<br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2012.03308)] \[[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ) ⭐ 258 | 🐛 0 | 🌐 Python | 📅 2024-06-01] \[[Code](https://github.com/weihaox/TediGAN) ⭐ 388 | 🐛 11 | 🌐 Python | 📅 2023-03-13]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2012.03308)] \[[Data](https://github.com/weihaox/Multi-Modal-CelebA-HQ) ⭐ 258 | 🐛 0 | 🌐 Python | 📅 2024-06-01] \[[Code](https://github.com/weihaox/TediGAN) ⭐ 389 | 🐛 11 | 🌐 Python | 📅 2023-03-13]
 
 **DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs.**<br>
 *yaxing wang, Lu Yu, Joost van de Weijer.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
