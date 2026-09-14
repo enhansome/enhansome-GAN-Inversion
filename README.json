@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6943,
+                "stars": 6944,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3337,
+                "stars": 3338,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2032,7 +2032,7 @@
             "open_issues": 1,
             "owner": "ChenWu98",
             "repo": "cycle-diffusion",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "diffusion-models",
               "generative-models",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:08:30.680Z",
+    "last_updated": "2026-09-14T10:31:30.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
