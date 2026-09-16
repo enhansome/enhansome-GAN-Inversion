@@ -2290,7 +2290,7 @@
                 "open_issues": 18,
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
-                "stars": 1438,
+                "stars": 1439,
                 "topics": [
                   "anime",
                   "gans",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8024,
+                "stars": 8023,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:58:26.084Z",
+    "last_updated": "2026-09-16T09:50:29.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
