@@ -134,7 +134,7 @@
                 "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3349,
+                "stars": 3348,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -1438,7 +1438,7 @@
             "open_issues": 21,
             "owner": "wyhsirius",
             "repo": "LIA",
-            "stars": 651,
+            "stars": 650,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2417,7 +2417,7 @@
                 "open_issues": 26,
                 "owner": "wtybest",
                 "repo": "HairCLIP",
-                "stars": 593,
+                "stars": 594,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1439,
+                "stars": 1440,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8023,
+                "stars": 8024,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:50:29.184Z",
+    "last_updated": "2026-09-17T09:56:05.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
