@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3348,
+                "stars": 3347,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -2290,7 +2290,7 @@
                 "open_issues": 18,
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
-                "stars": 1439,
+                "stars": 1440,
                 "topics": [
                   "anime",
                   "gans",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:23:57.217Z",
+    "last_updated": "2026-09-20T09:43:19.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
