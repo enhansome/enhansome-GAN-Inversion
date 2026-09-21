@@ -1831,7 +1831,7 @@
             "open_issues": 1,
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "ddpm",
               "editing",
@@ -2003,7 +2003,7 @@
             "open_issues": 1,
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "ddpm",
               "editing",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8023,
+                "stars": 8020,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:43:19.040Z",
+    "last_updated": "2026-09-21T10:36:35.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
