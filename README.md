@@ -102,7 +102,7 @@ SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2202.12211)] \[[Project](https://se
 
 **Ensembling Off-the-shelf Models for GAN Training.**<br>
 [Nupur Kumari](https://nupurkmr9.github.io/), [Richard Zhang](https://richzhang.github.io/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)<br>
-CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://www.cs.cmu.edu/~vision-aided-gan/)] \[[Code](https://github.com/nupurkmr9/vision-aided-gan) ⭐ 422 | 🐛 6 | 🌐 Python | 📅 2022-09-09]
+CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://www.cs.cmu.edu/~vision-aided-gan/)] \[[Code](https://github.com/nupurkmr9/vision-aided-gan) ⭐ 423 | 🐛 6 | 🌐 Python | 📅 2022-09-09]
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
@@ -130,7 +130,7 @@ Please check our 3D-aware image synthesis [survey](https://arxiv.org/abs/2210.14
 
 **EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Connor Z. Lin](https://connorzlin.com/), [Matthew A. Chan](https://matthew-a-chan.github.io/), [Koki Nagano](https://luminohope.org/), [Boxiao Pan](https://cs.stanford.edu/~bxpan/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Orazio Gallo](https://oraziogallo.github.io/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Jonathan Tremblay](https://research.nvidia.com/person/jonathan-tremblay), [Sameh Khamis](https://www.samehkhamis.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.07945)] \[[Project](https://matthew-a-chan.github.io/EG3D)] \[[Code](https://github.com/NVlabs/eg3d) ⭐ 3,337 | 🐛 66 | 🌐 Python | 📅 2023-06-10]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.07945)] \[[Project](https://matthew-a-chan.github.io/EG3D)] \[[Code](https://github.com/NVlabs/eg3d) ⭐ 3,336 | 🐛 66 | 🌐 Python | 📅 2023-06-10]
 
 **StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation.**<br>
 *[Roy Or-El](https://homes.cs.washington.edu/~royorel/), [Xuan Luo](https://roxanneluo.github.io/), Mengyi Shan, Eli Shechtman, Jeong Joon Park, Ira Kemelmacher-Shlizerman.*<br>
@@ -522,7 +522,7 @@ ICML 2022. \[[PDF](https://arxiv.org/abs/2202.09649)] \[[Code](https://github.co
 
 **Latent Image Animator: Learning to Animate Image via Latent Space Navigation.**<br>
 *Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
-ICLR 2022. \[[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] \[[Project](https://wyhsirius.github.io/LIA-project)] \[[Code](https://github.com/wyhsirius/LIA) ⭐ 650 | 🐛 21 | 🌐 Python | 📅 2025-10-22]
+ICLR 2022. \[[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] \[[Project](https://wyhsirius.github.io/LIA-project)] \[[Code](https://github.com/wyhsirius/LIA) ⭐ 649 | 🐛 21 | 🌐 Python | 📅 2025-10-22]
 
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
@@ -876,7 +876,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.co
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
-CVPR 2022. \[[PDF](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf)] \[[Project](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)] \[[Code](https://github.com/oneThousand1000/non-hair-FFHQ/blob/main) ⭐ 375 | 🐛 2 | 📅 2024-03-25] \[[Non-hair-FFHQ Data](https://github.com/oneThousand1000/non-hair-FFHQ) ⭐ 375 | 🐛 2 | 📅 2024-03-25]
+CVPR 2022. \[[PDF](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf)] \[[Project](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)] \[[Code](https://github.com/oneThousand1000/non-hair-FFHQ/blob/main) ⭐ 376 | 🐛 2 | 📅 2024-03-25] \[[Non-hair-FFHQ Data](https://github.com/oneThousand1000/non-hair-FFHQ) ⭐ 376 | 🐛 2 | 📅 2024-03-25]
 
 **Attribute Group Editing for Reliable Few-shot Image Generation.**<br>
 *Guanqi Ding, Xinzhe Han, Shuhui Wang, Shuzhe Wu, Xin Jin, Dandan Tu, Qingming Huang.*<br>
@@ -920,7 +920,7 @@ TOG 2021. \[[PDF](http://www.cad.zju.edu.cn/home/jin/sig2021/paper46.pdf)] \[[Pr
 
 **SAM: Only a Matter of Style-Age Transformation Using a Style-Based Regression Model.**<br>
 *Yuval Alaluf, Or Patashnik, [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com/yuval-alaluf/SAM) ⭐ 727 | 🐛 10 | 🌐 Python | 📅 2024-01-07]
+TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com/yuval-alaluf/SAM) ⭐ 728 | 🐛 10 | 🌐 Python | 📅 2024-01-07]
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,024 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,025 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
