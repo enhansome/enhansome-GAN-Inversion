@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3336,
+                "stars": 3335,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1611,7 +1611,7 @@
             "open_issues": 1,
             "owner": "csyxwei",
             "repo": "OroJaR",
-            "stars": 73,
+            "stars": 72,
             "topics": [
               "disentanglement",
               "iccv2021"
@@ -1728,7 +1728,7 @@
             "open_issues": 29,
             "owner": "harskish",
             "repo": "ganspace",
-            "stars": 1794,
+            "stars": 1795,
             "topics": [
               "deep-learning",
               "gan",
@@ -1777,7 +1777,7 @@
             "open_issues": 19,
             "owner": "anvoynov",
             "repo": "GANLatentDiscovery",
-            "stars": 428,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2290,7 +2290,7 @@
                 "open_issues": 18,
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
-                "stars": 1441,
+                "stars": 1440,
                 "topics": [
                   "anime",
                   "gans",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8025,
+                "stars": 8026,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:37:23.410Z",
+    "last_updated": "2026-09-29T11:16:27.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
