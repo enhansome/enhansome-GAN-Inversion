@@ -134,7 +134,7 @@
                 "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -702,7 +702,7 @@
                 "open_issues": 1,
                 "owner": "yuval-alaluf",
                 "repo": "restyle-encoder",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "generative-adversarial-networks",
                   "iccv2021",
@@ -943,7 +943,7 @@
                 "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "encoder",
                   "siggraph2021",
@@ -1396,7 +1396,7 @@
             "open_issues": 6,
             "owner": "RameenAbdal",
             "repo": "CLIP2StyleGAN",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1439,
+                "stars": 1440,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2581,7 +2581,7 @@
                 "open_issues": 9,
                 "owner": "mahmoudnafifi",
                 "repo": "HistoGAN",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "color-histogram",
                   "color-transfer",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8026,
+                "stars": 8027,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2929,7 +2929,7 @@
                 "open_issues": 6,
                 "owner": "RameenAbdal",
                 "repo": "Labels4Free",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:16:27.313Z",
+    "last_updated": "2026-09-30T11:04:46.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",

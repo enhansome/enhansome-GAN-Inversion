@@ -110,7 +110,7 @@ NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvl
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github.com/NVlabs/stylegan2-ada) ⭐ 1,829 | 🐛 78 | 🌐 Python | 📅 2024-07-02] \[[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06]
+NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github.com/NVlabs/stylegan2-ada) ⭐ 1,830 | 🐛 78 | 🌐 Python | 📅 2024-07-02] \[[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06]
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
@@ -288,7 +288,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2108.08998)] \[[Project](https://kkang8
 
 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br>
 *[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-ICCV 2021. \[[PDF](https://arxiv.org/abs/2104.02699)] \[[Project](https://yuval-alaluf.github.io/restyle-encoder/)] \[[Code](https://github.com/yuval-alaluf/restyle-encoder) ⭐ 1,046 | 🐛 1 | 🌐 Python | 📅 2022-10-01]
+ICCV 2021. \[[PDF](https://arxiv.org/abs/2104.02699)] \[[Project](https://yuval-alaluf.github.io/restyle-encoder/)] \[[Code](https://github.com/yuval-alaluf/restyle-encoder) ⭐ 1,047 | 🐛 1 | 🌐 Python | 📅 2022-10-01]
 
 **LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions.**<br>
 *Oğuz Kaan Yüksel, [Enis Simsar](https://enis.dev), Ezgi Gülperi Er, Pinar Yanardag.*<br>
@@ -348,7 +348,7 @@ AAAI 2021. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/17017)]
 
 **e4e: Designing an Encoder for StyleGAN Image Manipulation.**<br>
 *[Omer Tov](https://yotamnitzan.github.io/), Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or.*<br>
-TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02766)] \[[Code](https://github.com/omertov/encoder4editing) ⭐ 999 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15]
+TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02766)] \[[Code](https://github.com/omertov/encoder4editing) ⭐ 1,000 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15]
 
 **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
@@ -514,7 +514,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2208.03764)] \[[Project](https://sites.
 
 **CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.**<br>
 *Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka.*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2112.05219)] \[[Code](https://github.com/RameenAbdal/CLIP2StyleGAN) ⭐ 90 | 🐛 6 | 🌐 Python | 📅 2022-11-26]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2112.05219)] \[[Code](https://github.com/RameenAbdal/CLIP2StyleGAN) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2022-11-26]
 
 **Region-Based Semantic Factorization in GANs.**<br>
 *Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen.*<br>
@@ -924,7 +924,7 @@ TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
-SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,439 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
+SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,440 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
@@ -940,7 +940,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.03272)]
 
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), Marcus A. Brubaker, Michael S. Brown.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2011.11731)] \[[Code](https://github.com/mahmoudnafifi/HistoGAN) ⭐ 292 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-02-25] \[[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2011.11731)] \[[Code](https://github.com/mahmoudnafifi/HistoGAN) ⭐ 293 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-02-25] \[[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
 
 **One Shot Face Swapping on Megapixels.**<br>
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,026 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,027 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1028,7 +1028,7 @@ ICLR 2022. \[[PDF](https://openreview.net/forum?id=Ug-bgjgSlKV)]
 
 **Labels4Free: Unsupervised Segmentation using StyleGAN.**<br>
 *[Rameen Abdal](https://scholar.google.com/citations?user=kEQimk0AAAAJ\&hl=en), [Peihao Zhu](https://scholar.google.com/citations?user=Gn8URq0AAAAJ\&hl=en), [Niloy Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/), [Peter Wonka](http://peterwonka.net/).*<br>
-ICCV 2021. \[[PDF](https://arxiv.org/abs/2103.14968)] \[[Project](https://rameenabdal.github.io/Labels4Free)] \[[Code](https://github.com/RameenAbdal/Labels4Free) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2023-01-14]
+ICCV 2021. \[[PDF](https://arxiv.org/abs/2103.14968)] \[[Project](https://rameenabdal.github.io/Labels4Free)] \[[Code](https://github.com/RameenAbdal/Labels4Free) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2023-01-14]
 
 **DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort.**<br>
 *[Yuxuan Zhang](https://www.alexyuxuanzhang.com/), [Huan Ling](http://www.cs.toronto.edu/~linghuan/), [Jun Gao](http://www.cs.toronto.edu/~jungao/), [Kangxue Yin](https://kangxue.org/), [Jean-Francois Lafleche](), [Adela Barriuso](), [Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/), [Sanja Fidler](http://www.cs.utoronto.ca/~fidler/).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
