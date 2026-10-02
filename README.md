@@ -514,7 +514,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2208.03764)] \[[Project](https://sites.
 
 **CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.**<br>
 *Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka.*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2112.05219)] \[[Code](https://github.com/RameenAbdal/CLIP2StyleGAN) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2022-11-26]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2112.05219)] \[[Code](https://github.com/RameenAbdal/CLIP2StyleGAN) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2022-11-26]
 
 **Region-Based Semantic Factorization in GANs.**<br>
 *Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen.*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,026 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,025 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
