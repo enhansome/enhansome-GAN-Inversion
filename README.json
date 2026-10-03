@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6948,
+                "stars": 6949,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "LatentSwap3D: Semantic Edits on 3D Image GANs. Enis Simsar, Alessio Tonioni, Evin Pınar Örnek, Federico Tombari. ICCV 2023 Workshops on AI3DCC. [PDF",
-              "description": "] [Code]",
+              "description": "enisimsar/latentswap3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "StyleRes: Transforming the Residuals for Real Image Editing with StyleGAN. Hamza Pehlivan, Yusuf Dalva, Aysegul Dundar. CVPR 2023. [PDF",
-              "description": "] [Code]",
+              "description": "hamzapehlivan/StyleRes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "Intra-Source Style Augmentation for Improved Domain Generalization. Yumeng Li, Dan Zhang, Margret Keuper, Anna Khoreva. WACV 2023. [PDF",
-              "description": "] [Code]",
+              "description": "boschresearch/ISSA",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -398,7 +398,7 @@
             {
               "node_type": "item",
               "title": "Pivotal Tuning for Latent-based Editing of Real Images. Daniel Roich, Ron Mokady, Amit H. Bermano, Daniel Cohen-Or. TOG 2022. [PDF",
-              "description": "] [Code]",
+              "description": "danielroich/PTI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "Editing Out-of-Domain GAN Inversion via Differential Activations. Haorui Song, Yong Du, Tianyi Xiang, Junyu Dong, Jing Qin, Shengfeng He. ECCV 2022. [PDF",
-              "description": "] [Code]",
+              "description": "HaoruiSong622/Editing-Out-of-Domain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
             {
               "node_type": "item",
               "title": "A Style-Based GAN Encoder for High Fidelity Reconstruction of Images and Videos. Xu Yao, Alasdair Newson, Yann Gousseau, Pierre Hellier. ECCV 2022. [PDF",
-              "description": "] [Code]",
+              "description": "InterDigitalInc/FeatureStyleEncoder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -534,7 +534,7 @@
             {
               "node_type": "item",
               "title": "Cycle Encoding of a StyleGAN Encoder for Improved Reconstruction and Editability. Xudong Mao, Liujuan Cao, Aurele Tohokantche Gnanha, Zhenguo Yang, Qing Li, Rongrong Ji. ACM MM 2022. [PDF",
-              "description": "] [Code]",
+              "description": "xudonmao/CycleEncoding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "Style Transformer for Image Inversion and Editing. Xueqi Hu, Qiusheng Huang, Zhengyi Shi, Siyuan Li, Changxin Gao, Li Sun, Qingli Li. CVPR 2022. [PDF",
-              "description": "] [Code]",
+              "description": "sapphire497/style-transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,7 +765,7 @@
             {
               "node_type": "item",
               "title": "Navigating the GAN Parameter Space for Semantic Image Editing. Anton Cherepkov, Andrey Voynov, Artem Babenko. CVPR 2021. [PDF",
-              "description": "] [Code]",
+              "description": "yandex-research/navigan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -786,7 +786,7 @@
             {
               "node_type": "item",
               "title": "StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation. Zongze Wu, Dani Lischinski, Eli Shechtman. CVPR 2021 (oral). [PDF]",
-              "description": "[Code]",
+              "description": "betterze/StyleSpace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -858,7 +858,7 @@
             {
               "node_type": "item",
               "title": "Intermediate Layer Optimization for Inverse Problems using Deep Generative Models. Giannis Daras, Joseph Dean, Ajil Jalal, Alexandros G. Dimakis. ICML 2021. [PDF",
-              "description": "] [Code]",
+              "description": "giannisdaras/ilo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -999,7 +999,7 @@
             {
               "node_type": "item",
               "title": "Face Identity Disentanglement via Latent Space Mapping. Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or. TOG 2020. [PDF",
-              "description": "] [Code]",
+              "description": "YotamNitzan/ID-disentanglement",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1041,7 +1041,7 @@
             {
               "node_type": "item",
               "title": "Rewriting a Deep Generative Model. David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba. ECCV 2020. [PDF",
-              "description": "] [Code]",
+              "description": "davidbau/rewriting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1070,7 +1070,7 @@
             {
               "node_type": "item",
               "title": "StyleGAN2 Distillation for Feed-forward Image Manipulation. Yuri Viazovetskyi, Vladimir Ivashkin, Evgeny Kashin. ECCV 2020. [PDF",
-              "description": "] [Code]",
+              "description": "EvgenyKashin/stylegan2-distillation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1112,7 +1112,7 @@
             {
               "node_type": "item",
               "title": "Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation. Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo. ECCV 2020. [PDF",
-              "description": "] [Code]",
+              "description": "XingangPan/deep-generative-prior",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1161,7 +1161,7 @@
             {
               "node_type": "item",
               "title": "Editing in Style: Uncovering the Local Semantics of GANs. Edo Collins, Raja Bala, Bob Price, Sabine Süsstrunk. CVPR 2020. [PDF",
-              "description": "] [Code]",
+              "description": "IVRL/GANLocalEditing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1203,7 +1203,7 @@
             {
               "node_type": "item",
               "title": "Inverting The Generator Of A Generative Adversarial Network (II). Antonia Creswell, Anil A Bharath. TNNLS 2018. [PDF",
-              "description": "] [Code]",
+              "description": "ToniCreswell/InvertingGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,7 +1224,7 @@
             {
               "node_type": "item",
               "title": "Invertibility of Convolutional Generative Networks from Partial Measurements. Fangchang Ma, Ulas Ayaz, Sertac Karaman. NeurIPS 2018. [PDF",
-              "description": "] [Code]",
+              "description": "fangchangma/invert-generative-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1254,7 +1254,7 @@
             {
               "node_type": "item",
               "title": "Precise Recovery of Latent Vectors from Generative Adversarial Networks. Zachary C. Lipton, Subarna Tripathi. ICLR 2017 workshop. [PDF",
-              "description": "] [Code]",
+              "description": "SubarnaTripathi/ReverseGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1312,7 +1312,7 @@
         {
           "node_type": "item",
           "title": "Latent Traversals in Generative Models as Potential Flows. Yue Song, Andy Keller, Nicu Sebe, Max Welling. ICML 2023. [PDF",
-          "description": "] [Code]",
+          "description": "KingJamesSong/PDETraversal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1362,7 +1362,7 @@
         {
           "node_type": "item",
           "title": "Exploring Gradient-based Multi-directional Controls in GANs. Zikun Chen, Ruowei Jiang, Brendan Duke, Han Zhao, Parham Aarabi. ECCV 2022 (oral). [PDF",
-          "description": "] [Project]",
+          "description": "zikuncshelly/GradCtrl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1383,7 +1383,7 @@
         {
           "node_type": "item",
           "title": "CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions. Rameen Abdal, Peihao Zhu, John Femiani, Niloy J. Mitra, Peter Wonka. SIGGRAPH 2022. [PDF",
-          "description": "] [Code]",
+          "description": "RameenAbdal/CLIP2StyleGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1404,7 +1404,7 @@
         {
           "node_type": "item",
           "title": "Region-Based Semantic Factorization in GANs. Jiapeng Zhu, Yujun Shen, Yinghao Xu, Deli Zhao, Qifeng Chen. ICML 2022. [PDF",
-          "description": "] [Code]",
+          "description": "zhujiapeng/resefa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1467,7 +1467,7 @@
         {
           "node_type": "item",
           "title": "StyleFusion: Disentangling Spatial Segments in StyleGAN-Generated Images. Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or. TOG 2022. [PDF",
-          "description": "] [Code]",
+          "description": "OmerKafri/StyleFusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1509,7 +1509,7 @@
         {
           "node_type": "item",
           "title": "LowRankGAN: Low-Rank Subspaces in GANs. Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zhengjun Zha, Jingren Zhou, Qifeng Chen. NeurIPS 2021. [PDF",
-          "description": "] [Code]",
+          "description": "zhujiapeng/LowRankGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1551,7 +1551,7 @@
         {
           "node_type": "item",
           "title": "WarpedGANSpace: Finding Non-linear RBF Paths in GAN Latent Space. Christos Tzelepis, Georgios Tzimiropoulos, Ioannis Patras. ICCV 2021. [PDF",
-          "description": "] [Code]",
+          "description": "chi0tzp/WarpedGANSpace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1577,7 +1577,7 @@
         {
           "node_type": "item",
           "title": "Latent Transformations via NeuralODEs for GAN-based Image Editing. Valentin Khrulkov, Leyla Mirvakhabova, Ivan Oseledets, Artem Babenko. ICCV 2021. [PDF",
-          "description": "] [Code]",
+          "description": "KhrulkovV/nonlinear-image-editing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1598,7 +1598,7 @@
         {
           "node_type": "item",
           "title": "OroJaR: Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation. Yuxiang Wei, Yupeng Shi, Xiao Liu, Zhilong Ji, Yuan Gao, Zhongqin Wu, Wangmeng Zuo. ICCV 2021. [PDF",
-          "description": "] [Code]",
+          "description": "csyxwei/OroJaR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1622,7 +1622,7 @@
         {
           "node_type": "item",
           "title": "EigenGAN: Layer-Wise Eigen-Learning for GANs. Zhenliang He, Meina Kan, Shiguang Shan. ICCV 2021. [PDF",
-          "description": "] [Code]",
+          "description": "LynnHo/EigenGAN-Tensorflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1647,7 +1647,7 @@
         {
           "node_type": "item",
           "title": "Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes. Huiting Yang, Liangyu Chai, Qiang Wen, Shuang Zhao, Zixun Sun, Shengfeng He. CVPR 2021. [PDF",
-          "description": "] [Code]",
+          "description": "BERYLSHEEP/AdvStyle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1689,7 +1689,7 @@
         {
           "node_type": "item",
           "title": "MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis. Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov. ICLR 2021. [PDF",
-          "description": "] [Code]",
+          "description": "snap-research/MoCoGAN-HD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1715,7 +1715,7 @@
         {
           "node_type": "item",
           "title": "GANSpace: Discovering Interpretable GAN Controls. Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris. NeurIPS 2020. [PDF",
-          "description": "] [Code]",
+          "description": "harskish/ganspace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1764,7 +1764,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised Discovery of Interpretable Directions in the GAN Latent Space. Andrey Voynov, Artem Babenko. ICML 2020. [PDF",
-          "description": "] [Code]",
+          "description": "anvoynov/GANLatentDiscovery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1847,7 +1847,7 @@
         {
           "node_type": "item",
           "title": "Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code. Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu. ICLR 2024. [PDF",
-          "description": "] [Code]",
+          "description": "cure-lab/PnPInversion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1900,7 +1900,7 @@
         {
           "node_type": "item",
           "title": "EDICT: Exact Diffusion Inversion via Coupled Transformations. Bram Wallace, Akash Gokul, Nikhil Naik. CVPR 2023. [PDF",
-          "description": "] [Code]",
+          "description": "salesforce/EDICT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1990,7 +1990,7 @@
         {
           "node_type": "item",
           "title": "An Edit Friendly DDPM Noise Space: Inversion and Manipulations. Inbar Huberman-Spiegelglas, Vladimir Kulikov, Tomer Michaeli. CVPR 2024. [PDF",
-          "description": "] [Code]",
+          "description": "inbarhub/DDPM_inversion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2019,7 +2019,7 @@
         {
           "node_type": "item",
           "title": "Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance. Chen Henry Wu, Fernando De la Torre. ICCV 2023. [PDF",
-          "description": "] [Code]",
+          "description": "ChenWu98/cycle-diffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2057,7 +2057,7 @@
             {
               "node_type": "item",
               "title": "WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting. Kaitao Huang, Yan Yan, Jing-Hao Xue, Hanzi Wang. NeurIPS 2025. [PDF",
-              "description": "] [Code]",
+              "description": "Huang-KT/WarpGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2078,7 +2078,7 @@
             {
               "node_type": "item",
               "title": "Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation. Jihyun Kim, Changjae Oh, Hoseok Do, Soohyun Kim, Kwanghoon Sohn. CVPR 2024. [PDF",
-              "description": "] [Project]",
+              "description": "1211sh/Diffusion-driven_GAN-Inversion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2099,7 +2099,7 @@
             {
               "node_type": "item",
               "title": "The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing. Denis Bobkov, Vadim Titov, Aibek Alanov, Dmitry Vetrov. CVPR 2024. [PDF",
-              "description": "] [Code]",
+              "description": "ControlGenAI/StyleFeatureEditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2162,7 +2162,7 @@
             {
               "node_type": "item",
               "title": "Modeling the Latent Dynamics of StyleGAN using Neural ODEs. Weihao Xia, Yujiu Yang, Jing-Hao Xue. NeurIPSW 2023. [PDF",
-              "description": "] [Code]",
+              "description": "weihaox/DynODE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2207,7 +2207,7 @@
             {
               "node_type": "item",
               "title": "DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing. Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi. WACV 2023. [PDF",
-              "description": "] [Code]",
+              "description": "phycvgan/DyStyle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2228,7 +2228,7 @@
             {
               "node_type": "item",
               "title": "Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models. Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre. NeurIPS 2022. [PDF",
-              "description": "] [Code]",
+              "description": "ChenWu98/generative-visual-prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2256,7 +2256,7 @@
             {
               "node_type": "item",
               "title": "Generalized One-shot Domain Adaption of Generative Adversarial Networks. Zicheng Zhang, Yinglu Liu, Congying Han, Tiande Guo, Ting Yao, Tao Mei. NeurIPS 2022. [PDF",
-              "description": "] [Code]",
+              "description": "zhangzc21/Generalized-One-shot-GAN-Adaptation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2277,7 +2277,7 @@
             {
               "node_type": "item",
               "title": "JoJoGAN: One Shot Face Stylization. Min Jin Chong, David Forsyth. ECCV 2022. [PDF",
-              "description": "] [Code]",
+              "description": "mchong6/JoJoGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2358,7 +2358,7 @@
             {
               "node_type": "item",
               "title": "Self-Conditioned Generative Adversarial Networks for Image Editing. Yunzhe Liu, Rinon Gal, Amit H. Bermano, Baoquan Chen, Daniel Cohen-Or. SIGGRAPH 2022. [PDF",
-              "description": "] [Project]",
+              "description": "yzliu567/sc-gan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2404,7 +2404,7 @@
             {
               "node_type": "item",
               "title": "HairCLIP: Design Your Hair by Text and Reference Image. Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu. CVPR 2022. [PDF",
-              "description": "] [Code]",
+              "description": "wtybest/HairCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2446,7 +2446,7 @@
             {
               "node_type": "item",
               "title": "Attribute Group Editing for Reliable Few-shot Image Generation. Guanqi Ding, Xinzhe Han, Shuhui Wang, Shuzhe Wu, Xin Jin, Dandan Tu, Qingming Huang. CVPR 2022. [PDF",
-              "description": "] [Code]",
+              "description": "UniBester/AGE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2539,7 +2539,7 @@
             {
               "node_type": "item",
               "title": "Constrained Graphic Layout Generation via Latent Optimization. Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi. ACM MM 2021. [PDF",
-              "description": "] [Code]",
+              "description": "ktrk115/const_layout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2609,7 +2609,7 @@
             {
               "node_type": "item",
               "title": "One Shot Face Swapping on Megapixels. Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun. CVPR 2021. [PDF",
-              "description": "] [Code]",
+              "description": "zyainfal/One-Shot-Face-Swapping-on-Megapixels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2634,7 +2634,7 @@
             {
               "node_type": "item",
               "title": "LOHO: Latent Optimization of Hairstyles via Orthogonalization. Rohit Saha, Brendan Duke, Florian Shkurti, Graham W. Taylor, Parham Aarabi. CVPR 2021. [PDF",
-              "description": "] [Code]",
+              "description": "dukebw/LOHO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2702,7 +2702,7 @@
             {
               "node_type": "item",
               "title": "DeepI2I: Enabling Deep Hierarchical Image-to-Image Translation by Transferring from GANs. yaxing wang, Lu Yu, Joost van de Weijer. NeurIPS 2020. [PDF",
-              "description": "] [Code]",
+              "description": "yaxingwang/DeepI2I",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2744,7 +2744,7 @@
             {
               "node_type": "item",
               "title": "Few-shot Semantic Image Synthesis Using StyleGAN Prior. Yuki Endo, Yoshihiro Kanamori. arxiv 2021. [PDF",
-              "description": "] [Code]",
+              "description": "endo-yuki-t/Fewshot-SMIS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2793,7 +2793,7 @@
             {
               "node_type": "item",
               "title": "Semantic Uncertainty Intervals for Disentangled Latent Spaces. Swami Sankaranarayanan, Anastasios N. Angelopoulos, Stephen Bates, Yaniv Romano, Phillip Isola. NeurIPS 2022. [PDF",
-              "description": "] [Code]",
+              "description": "swamiviv/generative_semantic_uncertainty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2860,7 +2860,7 @@
             {
               "node_type": "item",
               "title": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models. Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin. CVPR 2020. [PDF",
-              "description": "] [Code]",
+              "description": "alex-damian/pulse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3007,7 +3007,7 @@
             {
               "node_type": "item",
               "title": "How to Boost Face Recognition with StyleGAN? Artem Sevastopolsky, Yury Malkov, Nikita Durasov, Luisa Verdoliva, Matthias Nießner. ICCV 2023. [PDF",
-              "description": "] [Code]",
+              "description": "seva100/stylegan-for-facerec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3035,7 +3035,7 @@
             {
               "node_type": "item",
               "title": "Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion. Dario Pavllo, David Joseph Tan, Marie-Julie Rakotosaona, Federico Tombari. CVPR 2023. [PDF",
-              "description": "] [Code]",
+              "description": "google-research/nerf-from-image",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3077,7 +3077,7 @@
             {
               "node_type": "item",
               "title": "OSTeC: One-Shot Texture Completion. Baris Gecer, Jiankang Deng, Stefanos Zafeiriou. CVPR 2021. [PDF",
-              "description": "] [Code]",
+              "description": "barisgecer/OSTeC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3140,7 +3140,7 @@
                 {
                   "node_type": "item",
                   "title": "Generator Surgery for Compressed Sensing. Niklas Smedemark-Margulies, Jung Yeon Park, Max Daniels, Rose Yu, Jan-Willem van de Meent, Paul Hand. NeurIPS 2020 Workshop on Deep Inverse. [PDF",
-                  "description": "] [Code]",
+                  "description": "nik-sm/generator-surgery",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:01:01.097Z",
+    "last_updated": "2026-10-03T04:30:26.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",

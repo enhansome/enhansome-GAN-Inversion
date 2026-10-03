@@ -106,7 +106,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,948 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,949 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 503 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -114,7 +114,7 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,182 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,181 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
@@ -478,7 +478,7 @@ arxiv 2020. \[[PDF](https://arxiv.org/abs/2009.06529)]
 
 ## GAN Latent Space Editing
 
-Inversion isn't the ultimate goal; it's a means to enable real image or video editing within a GAN's latent space. Commonly referred to as GAN latent space editing, navigation, traversal, steerability, or other names in the literature, this task, although sometimes seen as a standalone research domain, acts as an indispensable component of GAN inversion based editing. This section is about GAN latent space editing. Recent studies reveal diffusion model can be used for real image and video editing in a similar way. Please refer to [Diffusion Inversion](https://github.com/weihaox/GAN-Inversion#diffusion-inversion) ⭐ 1,127 | 🐛 0 | 🌐 TeX | 📅 2026-07-14 and [Diffusion Latent Space Editing](https://github.com/weihaox/GAN-Inversion/#diffusion-latent-space-editing) ⭐ 1,127 | 🐛 0 | 🌐 TeX | 📅 2026-07-14 for more details.
+Inversion isn't the ultimate goal; it's a means to enable real image or video editing within a GAN's latent space. Commonly referred to as GAN latent space editing, navigation, traversal, steerability, or other names in the literature, this task, although sometimes seen as a standalone research domain, acts as an indispensable component of GAN inversion based editing. This section is about GAN latent space editing. Recent studies reveal diffusion model can be used for real image and video editing in a similar way. Please refer to [Diffusion Inversion](https://github.com/weihaox/GAN-Inversion#diffusion-inversion) and [Diffusion Latent Space Editing](https://github.com/weihaox/GAN-Inversion/#diffusion-latent-space-editing) for more details.
 
 **Deep Curvilinear Editing: Commutative and Nonlinear Image Manipulation for Pretrained Deep Generative Model.**<br>
 *Takehiro Aoshima, Takashi Matsubara.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
