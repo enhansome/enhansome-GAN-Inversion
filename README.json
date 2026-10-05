@@ -2344,7 +2344,7 @@
                 "open_issues": 2,
                 "owner": "yuval-alaluf",
                 "repo": "stylegan3-editing",
-                "stars": 686,
+                "stars": 685,
                 "topics": [
                   "generative-adversarial-network",
                   "image-editing",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8025,
+                "stars": 8026,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:03:28.118Z",
+    "last_updated": "2026-10-05T12:12:04.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
