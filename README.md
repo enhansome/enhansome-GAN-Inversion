@@ -118,7 +118,7 @@ CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,413 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,411 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
@@ -130,7 +130,7 @@ Please check our 3D-aware image synthesis [survey](https://arxiv.org/abs/2210.14
 
 **EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Connor Z. Lin](https://connorzlin.com/), [Matthew A. Chan](https://matthew-a-chan.github.io/), [Koki Nagano](https://luminohope.org/), [Boxiao Pan](https://cs.stanford.edu/~bxpan/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Orazio Gallo](https://oraziogallo.github.io/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Jonathan Tremblay](https://research.nvidia.com/person/jonathan-tremblay), [Sameh Khamis](https://www.samehkhamis.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.07945)] \[[Project](https://matthew-a-chan.github.io/EG3D)] \[[Code](https://github.com/NVlabs/eg3d) ⭐ 3,334 | 🐛 66 | 🌐 Python | 📅 2023-06-10]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.07945)] \[[Project](https://matthew-a-chan.github.io/EG3D)] \[[Code](https://github.com/NVlabs/eg3d) ⭐ 3,333 | 🐛 66 | 🌐 Python | 📅 2023-06-10]
 
 **StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation.**<br>
 *[Roy Or-El](https://homes.cs.washington.edu/~royorel/), [Xuan Luo](https://roxanneluo.github.io/), Mengyi Shan, Eli Shechtman, Jeong Joon Park, Ira Kemelmacher-Shlizerman.*<br>
@@ -260,7 +260,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.00719)] \[[Project](https://di-mi-
 
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing.**<br>
 *Yuval Alaluf, Omer Tov, Ron Mokady, Rinon Gal, Amit H. Bermano.*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2111.15666)] \[[Project](http://yuval-alaluf.github.io/hyperstyle/)] \[[Code](https://github.com/yuval-alaluf/hyperstyle) ⭐ 1,029 | 🐛 5 | 🌐 Python | 📅 2022-09-17]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2111.15666)] \[[Project](http://yuval-alaluf.github.io/hyperstyle/)] \[[Code](https://github.com/yuval-alaluf/hyperstyle) ⭐ 1,028 | 🐛 5 | 🌐 Python | 📅 2022-09-17]
 
 **Overparameterization Improves StyleGAN Inversion.**<br>
 *Yohan Poirier-Ginter, Alexandre Lessard, Ryan Smith, Jean-François Lalonde.*<br>
@@ -348,7 +348,7 @@ AAAI 2021. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/17017)]
 
 **e4e: Designing an Encoder for StyleGAN Image Manipulation.**<br>
 *[Omer Tov](https://yotamnitzan.github.io/), Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or.*<br>
-TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02766)] \[[Code](https://github.com/omertov/encoder4editing) ⭐ 1,000 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15]
+TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02766)] \[[Code](https://github.com/omertov/encoder4editing) ⭐ 999 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15]
 
 **StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows.**<br>
 *Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka.*<br>
@@ -522,7 +522,7 @@ ICML 2022. \[[PDF](https://arxiv.org/abs/2202.09649)] \[[Code](https://github.co
 
 **Latent Image Animator: Learning to Animate Image via Latent Space Navigation.**<br>
 *Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
-ICLR 2022. \[[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] \[[Project](https://wyhsirius.github.io/LIA-project)] \[[Code](https://github.com/wyhsirius/LIA) ⭐ 649 | 🐛 21 | 🌐 Python | 📅 2025-10-22]
+ICLR 2022. \[[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] \[[Project](https://wyhsirius.github.io/LIA-project)] \[[Code](https://github.com/wyhsirius/LIA) ⭐ 650 | 🐛 21 | 🌐 Python | 📅 2025-10-22]
 
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
@@ -618,7 +618,7 @@ CVPR 2021. \[[PDF](http://arxiv.org/abs/2104.09065)]
 
 **SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
 *Yujun Shen, Bolei Zhou.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2007.06600)] \[[Code](https://github.com/genforce/sefa) ⭐ 965 | 🐛 13 | 🌐 Python | 📅 2021-03-04] \[[Project](https://genforce.github.io/sefa/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2007.06600)] \[[Code](https://github.com/genforce/sefa) ⭐ 964 | 🐛 13 | 🌐 Python | 📅 2021-03-04] \[[Project](https://genforce.github.io/sefa/)]
 
 **L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing.**<br>
 *Guoxing Yang, Nanyi Fei, Mingyu Ding, Guangzhen Liu, Zhiwu Lu, Tao Xiang.*<br>
@@ -682,11 +682,11 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.09794)] \[[Project](https://null-t
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations.**<br>
 *Bram Wallace, Akash Gokul, Nikhil Naik.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.com/salesforce/EDICT) ⭐ 322 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-06-02]
+CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.com/salesforce/EDICT) ⭐ 321 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-06-02]
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,056 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
+ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,055 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
