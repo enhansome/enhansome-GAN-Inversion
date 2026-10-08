@@ -42,7 +42,7 @@
 </p>
 <br />
 
-This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).  If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/weihaox/awesome-gan-inversion/pulls) ⭐ 1,127 | 🐛 0 | 🌐 TeX | 📅 2026-07-14. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format.
+This repo is a collection of resources on GAN inversion, as a supplement for our [survey](https://arxiv.org/abs/2101.05278).  If you find any work missing or have any suggestions (papers, implementations and other resources), feel free to [pull requests](https://github.com/weihaox/awesome-gan-inversion/pulls) ⭐ 1,126 | 🐛 0 | 🌐 TeX | 📅 2026-07-14. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format.
 
 <details style="margin-left:3%;">
   <summary>citation</summary>
@@ -114,11 +114,11 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,181 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,182 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,411 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,410 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
@@ -126,7 +126,7 @@ ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://git
 
 ### 3D-aware GANs
 
-Please check our 3D-aware image synthesis [survey](https://arxiv.org/abs/2210.14267), [paper list](https://github.com/weihaox/3D-aware-Gen) ⭐ 163 | 🐛 0 | 🌐 HTML | 📅 2025-02-06, and [project](https://weihaox.github.io/3D-aware-Gen/) for more details.
+Please check our 3D-aware image synthesis [survey](https://arxiv.org/abs/2210.14267), [paper list](https://github.com/weihaox/3D-aware-Gen) ⭐ 162 | 🐛 0 | 🌐 HTML | 📅 2025-02-06, and [project](https://weihaox.github.io/3D-aware-Gen/) for more details.
 
 **EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Connor Z. Lin](https://connorzlin.com/), [Matthew A. Chan](https://matthew-a-chan.github.io/), [Koki Nagano](https://luminohope.org/), [Boxiao Pan](https://cs.stanford.edu/~bxpan/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Orazio Gallo](https://oraziogallo.github.io/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Jonathan Tremblay](https://research.nvidia.com/person/jonathan-tremblay), [Sameh Khamis](https://www.samehkhamis.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,026 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,025 | 🐛 61 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
