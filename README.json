@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
-                "stars": 1197,
+                "stars": 1196,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3333,
+                "stars": 3334,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -943,7 +943,7 @@
                 "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "encoder",
                   "siggraph2021",
@@ -2622,7 +2622,7 @@
                 "open_issues": 26,
                 "owner": "zyainfal",
                 "repo": "One-Shot-Face-Swapping-on-Megapixels",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "1024",
                   "cvpr2021",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8025,
+                "stars": 8024,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:56:13.239Z",
+    "last_updated": "2026-10-09T11:48:19.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
