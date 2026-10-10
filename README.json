@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6947,
+                "stars": 6946,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3348,
+                "stars": 3349,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -2505,7 +2505,7 @@
                 "open_issues": 10,
                 "owner": "yuval-alaluf",
                 "repo": "SAM",
-                "stars": 728,
+                "stars": 729,
                 "topics": [
                   "age-transformation",
                   "aging",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8024,
+                "stars": 8022,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:48:19.845Z",
+    "last_updated": "2026-10-10T11:05:31.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
