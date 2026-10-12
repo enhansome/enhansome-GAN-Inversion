@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6946,
+                "stars": 6945,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2392,7 +2392,7 @@
                 "open_issues": 14,
                 "owner": "rinongal",
                 "repo": "StyleGAN-nada",
-                "stars": 1195,
+                "stars": 1196,
                 "topics": [
                   "domain-adaptation",
                   "generative-adversarial-network",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8022,
+                "stars": 8023,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:21:16.554Z",
+    "last_updated": "2026-10-12T13:01:12.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
