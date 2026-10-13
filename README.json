@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
-                "stars": 1196,
+                "stars": 1195,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -134,7 +134,7 @@
                 "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1830,
+                "stars": 1829,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 44,
             "owner": "genforce",
             "repo": "interfacegan",
-            "stars": 1560,
+            "stars": 1561,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1804,7 +1804,7 @@
             "open_issues": 0,
             "owner": "Pengchengpcx",
             "repo": "FTEdit",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "diffusion-transformer",
               "flow-matching",
@@ -1860,7 +1860,7 @@
             "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 413,
+            "stars": 411,
             "topics": [
               "deep-learning",
               "diffusion-inversion",
@@ -2438,7 +2438,7 @@
                 "open_issues": 2,
                 "owner": "oneThousand1000",
                 "repo": "non-hair-FFHQ",
-                "stars": 376,
+                "stars": 377,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8023,
+                "stars": 8025,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:01:12.647Z",
+    "last_updated": "2026-10-13T12:36:11.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
