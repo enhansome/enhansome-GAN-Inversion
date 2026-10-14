@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3334,
+                "stars": 3335,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -183,7 +183,7 @@
                 "open_issues": 13,
                 "owner": "royorel",
                 "repo": "StyleSDF",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -778,7 +778,7 @@
                 "open_issues": 0,
                 "owner": "yandex-research",
                 "repo": "navigan",
-                "stars": 299,
+                "stars": 300,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3349,
+                "stars": 3350,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -1083,7 +1083,7 @@
                 "open_issues": 1,
                 "owner": "EvgenyKashin",
                 "repo": "stylegan2-distillation",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1728,7 +1728,7 @@
             "open_issues": 29,
             "owner": "harskish",
             "repo": "ganspace",
-            "stars": 1795,
+            "stars": 1796,
             "topics": [
               "deep-learning",
               "gan",
@@ -1831,7 +1831,7 @@
             "open_issues": 1,
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "ddpm",
               "editing",
@@ -1892,7 +1892,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3455,
+            "stars": 3456,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1934,7 +1934,7 @@
             "open_issues": 52,
             "owner": "rinongal",
             "repo": "textual_inversion",
-            "stars": 3055,
+            "stars": 3056,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1955,7 +1955,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3455,
+            "stars": 3456,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1,
             "owner": "inbarhub",
             "repo": "DDPM_inversion",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "ddpm",
               "editing",
@@ -2873,7 +2873,7 @@
                 "open_issues": 61,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8025,
+                "stars": 8044,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:36:11.793Z",
+    "last_updated": "2026-10-14T10:03:14.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
