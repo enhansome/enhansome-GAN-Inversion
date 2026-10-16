@@ -84,7 +84,7 @@
                 "open_issues": 6,
                 "owner": "nupurkmr9",
                 "repo": "vision-aided-gan",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1756,7 +1756,7 @@
             "open_issues": 44,
             "owner": "genforce",
             "repo": "interfacegan",
-            "stars": 1561,
+            "stars": 1560,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1860,7 +1860,7 @@
             "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "deep-learning",
               "diffusion-inversion",
@@ -1892,7 +1892,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1934,7 +1934,7 @@
             "open_issues": 52,
             "owner": "rinongal",
             "repo": "textual_inversion",
-            "stars": 3056,
+            "stars": 3055,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1955,7 +1955,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2417,7 +2417,7 @@
                 "open_issues": 26,
                 "owner": "wtybest",
                 "repo": "HairCLIP",
-                "stars": 595,
+                "stars": 594,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1440,
+                "stars": 1441,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:46:11.326Z",
+    "last_updated": "2026-10-16T09:39:14.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
