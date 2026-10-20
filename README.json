@@ -113,7 +113,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6946,
+                "stars": 6947,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2581,7 +2581,7 @@
                 "open_issues": 9,
                 "owner": "mahmoudnafifi",
                 "repo": "HistoGAN",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "color-histogram",
                   "color-transfer",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T10:40:19.594Z",
+    "last_updated": "2026-10-20T09:57:10.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",

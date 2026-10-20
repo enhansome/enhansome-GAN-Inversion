@@ -106,7 +106,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,946 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 504 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,947 | 🐛 192 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 504 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
@@ -114,7 +114,7 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,179 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,178 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
@@ -884,7 +884,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.08422)] \[[Code](https://github.co
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07293)] \[[Project](http://afruehstueck.github.io/insetgan)] \[[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py) ⭐ 1,192 | 🐛 27 | 🌐 Python | 📅 2025-01-26]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07293)] \[[Project](http://afruehstueck.github.io/insetgan)] \[[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py) ⭐ 1,193 | 🐛 27 | 🌐 Python | 📅 2025-01-26]
 
 **SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing.**<br>
 *[Jing Shi](https://www.cs.rochester.edu/u/jshi31/), [Ning Xu](https://sites.google.com/view/ningxu/), [Haitian Zheng](https://www.cs.rochester.edu/u/hzheng15/haitian_homepage/index.html), Alex Smith, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).*<br>
@@ -940,7 +940,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.03272)]
 
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms.**<br>
 *[Mahmoud Afifi](https://sites.google.com/view/mafifi), Marcus A. Brubaker, Michael S. Brown.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2011.11731)] \[[Code](https://github.com/mahmoudnafifi/HistoGAN) ⭐ 293 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-02-25] \[[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2011.11731)] \[[Code](https://github.com/mahmoudnafifi/HistoGAN) ⭐ 294 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-02-25] \[[4K Landscape](https://ln2.sync.com/dl/1891becc0/uhsxtprq-33wfwmyq-dhhqeb3s-mtstuqw7/view/default/11118541390008)]
 
 **One Shot Face Swapping on Megapixels.**<br>
 *Yuhao Zhu, Qi Li, Jian Wang, Chengzhong Xu, Zhenan Sun.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
