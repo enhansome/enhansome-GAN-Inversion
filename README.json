@@ -113,7 +113,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6946,
+                "stars": 6947,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3348,
+                "stars": 3349,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:55:53.838Z",
+    "last_updated": "2026-10-24T09:25:20.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
