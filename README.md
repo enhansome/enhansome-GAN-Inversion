@@ -114,15 +114,15 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,179 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,181 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,409 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,410 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
-ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,175 | 🐛 11 | 🌐 Python | 📅 2022-02-17]
+ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,176 | 🐛 11 | 🌐 Python | 📅 2022-02-17]
 
 ### 3D-aware GANs
 
@@ -130,7 +130,7 @@ Please check our 3D-aware image synthesis [survey](https://arxiv.org/abs/2210.14
 
 **EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks.**<br>
 *[Eric R. Chan](https://ericryanchan.github.io/), [Connor Z. Lin](https://connorzlin.com/), [Matthew A. Chan](https://matthew-a-chan.github.io/), [Koki Nagano](https://luminohope.org/), [Boxiao Pan](https://cs.stanford.edu/~bxpan/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Orazio Gallo](https://oraziogallo.github.io/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Jonathan Tremblay](https://research.nvidia.com/person/jonathan-tremblay), [Sameh Khamis](https://www.samehkhamis.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Gordon Wetzstein](https://stanford.edu/~gordonwz/).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.07945)] \[[Project](https://matthew-a-chan.github.io/EG3D)] \[[Code](https://github.com/NVlabs/eg3d) ⭐ 3,334 | 🐛 66 | 🌐 Python | 📅 2023-06-10]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.07945)] \[[Project](https://matthew-a-chan.github.io/EG3D)] \[[Code](https://github.com/NVlabs/eg3d) ⭐ 3,335 | 🐛 66 | 🌐 Python | 📅 2023-06-10]
 
 **StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation.**<br>
 *[Roy Or-El](https://homes.cs.washington.edu/~royorel/), [Xuan Luo](https://roxanneluo.github.io/), Mengyi Shan, Eli Shechtman, Jeong Joon Park, Ira Kemelmacher-Shlizerman.*<br>
@@ -312,7 +312,7 @@ CVPR 2021 (oral). [\[PDF\]](https://arxiv.org/abs/2011.12799) \[[Code](https://g
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,349 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,350 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
 
 **GHFeat: Generative Hierarchical Features from Synthesizing Images.**<br>
 *Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
@@ -682,11 +682,11 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.09794)] \[[Project](https://null-t
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations.**<br>
 *Bram Wallace, Akash Gokul, Nikhil Naik.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.com/salesforce/EDICT) ⭐ 321 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-06-02]
+CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.com/salesforce/EDICT) ⭐ 322 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-06-02]
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,055 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
+ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,056 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -722,7 +722,7 @@ ICLR 2023. \[[PDF](http://arxiv.org/abs/2210.10960v2)]
 
 **Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance.**<br>
 *Chen Henry Wu, Fernando De la Torre.*<br>
-ICCV 2023. \[[PDF](http://arxiv.org/abs/2210.05559v2)] \[[Code](https://github.com/ChenWu98/cycle-diffusion) ⭐ 660 | 🐛 1 | 🌐 Python | 📅 2023-12-31]
+ICCV 2023. \[[PDF](http://arxiv.org/abs/2210.05559v2)] \[[Code](https://github.com/ChenWu98/cycle-diffusion) ⭐ 659 | 🐛 1 | 🌐 Python | 📅 2023-12-31]
 
 **Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models.**<br>
 *Chen Henry Wu, Saman Motamed, Shaunak Srivastava, Fernando De la Torre.*<br>
@@ -928,7 +928,7 @@ SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
-ACM MM 2021. \[[PDF](https://arxiv.org/abs/2108.00871)] \[[Code](https://github.com/ktrk115/const_layout) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2023-07-24]
+ACM MM 2021. \[[PDF](https://arxiv.org/abs/2108.00871)] \[[Code](https://github.com/ktrk115/const_layout) ⭐ 140 | 🐛 4 | 🌐 Python | 📅 2023-07-24]
 
 **CI-GAN: Cycle-Consistent Inverse GAN for Text-to-Image Synthesis.**<br>
 *Hao Wang, Guosheng Lin, Steven C. H. Hoi, Chunyan Miao.*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,050 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,051 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
