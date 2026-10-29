@@ -90,7 +90,7 @@ CVPR 2023 (Highlight). \[[PDF](https://arxiv.org/abs/2303.05511)] \[[Project](ht
 
 **StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Andreas Geiger](https://www.cvlibs.net/), [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-ICML 2023. \[[Project](https://sites.google.com/view/stylegan-t/)]    \[[PDF](https://arxiv.org/abs/2301.09515)]   \[[Code](https://github.com/autonomousvision/stylegan-t) ⭐ 1,196 | 🐛 14 | 🌐 Python | 📅 2023-04-07]
+ICML 2023. \[[Project](https://sites.google.com/view/stylegan-t/)]    \[[PDF](https://arxiv.org/abs/2301.09515)]   \[[Code](https://github.com/autonomousvision/stylegan-t) ⭐ 1,195 | 🐛 14 | 🌐 Python | 📅 2023-04-07]
 
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
@@ -872,7 +872,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.00007)]
 
 **HairCLIP: Design Your Hair by Text and Reference Image.**<br>
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu.*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.com/wty-ustc/HairCLIP) ⭐ 594 | 🐛 26 | 🌐 Python | 📅 2024-04-24]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.com/wty-ustc/HairCLIP) ⭐ 593 | 🐛 26 | 🌐 Python | 📅 2024-04-24]
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,053 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,052 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
