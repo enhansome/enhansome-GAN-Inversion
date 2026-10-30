@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
-                "stars": 1195,
+                "stars": 1196,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1438,7 +1438,7 @@
             "open_issues": 21,
             "owner": "wyhsirius",
             "repo": "LIA",
-            "stars": 651,
+            "stars": 650,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 13,
             "owner": "genforce",
             "repo": "sefa",
-            "stars": 962,
+            "stars": 961,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1934,7 +1934,7 @@
             "open_issues": 52,
             "owner": "rinongal",
             "repo": "textual_inversion",
-            "stars": 3055,
+            "stars": 3056,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2344,7 +2344,7 @@
                 "open_issues": 2,
                 "owner": "yuval-alaluf",
                 "repo": "stylegan3-editing",
-                "stars": 685,
+                "stars": 684,
                 "topics": [
                   "generative-adversarial-network",
                   "image-editing",
@@ -2392,7 +2392,7 @@
                 "open_issues": 14,
                 "owner": "rinongal",
                 "repo": "StyleGAN-nada",
-                "stars": 1196,
+                "stars": 1195,
                 "topics": [
                   "domain-adaptation",
                   "generative-adversarial-network",
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1440,
+                "stars": 1439,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2647,7 +2647,7 @@
                 "open_issues": 7,
                 "owner": "dukebw",
                 "repo": "LOHO",
-                "stars": 171,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 62,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8052,
+                "stars": 8051,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2950,7 +2950,7 @@
                 "open_issues": 16,
                 "owner": "nv-tlabs",
                 "repo": "datasetGAN_release",
-                "stars": 350,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:26:25.559Z",
+    "last_updated": "2026-10-30T11:18:05.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
