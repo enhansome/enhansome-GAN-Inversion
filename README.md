@@ -114,11 +114,11 @@ NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,182 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,183 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,407 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,409 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
@@ -288,7 +288,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2108.08998)] \[[Project](https://kkang8
 
 **ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement.**<br>
 *[Yuval Alaluf](https://yuval-alaluf.github.io/), [Or Patashnik](https://orpatashnik.github.io/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/).*<br>
-ICCV 2021. \[[PDF](https://arxiv.org/abs/2104.02699)] \[[Project](https://yuval-alaluf.github.io/restyle-encoder/)] \[[Code](https://github.com/yuval-alaluf/restyle-encoder) ⭐ 1,046 | 🐛 1 | 🌐 Python | 📅 2022-10-01]
+ICCV 2021. \[[PDF](https://arxiv.org/abs/2104.02699)] \[[Project](https://yuval-alaluf.github.io/restyle-encoder/)] \[[Code](https://github.com/yuval-alaluf/restyle-encoder) ⭐ 1,047 | 🐛 1 | 🌐 Python | 📅 2022-10-01]
 
 **LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions.**<br>
 *Oğuz Kaan Yüksel, [Enis Simsar](https://enis.dev), Ezgi Gülperi Er, Pinar Yanardag.*<br>
@@ -312,7 +312,7 @@ CVPR 2021 (oral). [\[PDF\]](https://arxiv.org/abs/2011.12799) \[[Code](https://g
 
 **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation.**<br>
 *Elad Richardson, Yuval Alaluf, Or Patashnik, Yotam Nitzan, Yaniv Azar, Stav Shapiro, Daniel Cohen-Or.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,350 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2008.00951)] \[[Code](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,351 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-10-01] \[[Project](eladrich.github.io/pixel2style2pixel/)]
 
 **GHFeat: Generative Hierarchical Features from Synthesizing Images.**<br>
 *Yinghao Xu, Yujun Shen, Jiapeng Zhu, Ceyuan Yang, Bolei Zhou.*<br>
@@ -618,7 +618,7 @@ CVPR 2021. \[[PDF](http://arxiv.org/abs/2104.09065)]
 
 **SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
 *Yujun Shen, Bolei Zhou.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2007.06600)] \[[Code](https://github.com/genforce/sefa) ⭐ 961 | 🐛 13 | 🌐 Python | 📅 2021-03-04] \[[Project](https://genforce.github.io/sefa/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2007.06600)] \[[Code](https://github.com/genforce/sefa) ⭐ 962 | 🐛 13 | 🌐 Python | 📅 2021-03-04] \[[Project](https://genforce.github.io/sefa/)]
 
 **L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing.**<br>
 *Guoxing Yang, Nanyi Fei, Mingyu Ding, Guangzhen Liu, Zhiwu Lu, Tao Xiang.*<br>
@@ -638,11 +638,11 @@ ICLR 2020. \[[PDF](https://arxiv.org/abs/1907.07171)] \[[Project](https://ali-de
 
 **GANSpace: Discovering Interpretable GAN Controls.**<br>
 *Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
-NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2004.02546)] \[[Code](https://github.com/harskish/ganspace) ⭐ 1,795 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-01-20]
+NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2004.02546)] \[[Code](https://github.com/harskish/ganspace) ⭐ 1,796 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-01-20]
 
 **Interpreting the Latent Space of GANs for Semantic Face Editing.**<br>
 *[Yujun Shen](http://shenyujun.github.io/), [Jinjin Gu](http://www.jasongt.com/), [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1907.10786)] \[[Project](https://genforce.github.io/interfacegan/)] \[[Code](https://github.com/genforce/interfacegan) ⭐ 1,559 | 🐛 44 | 🌐 Python | 📅 2022-02-09]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1907.10786)] \[[Project](https://genforce.github.io/interfacegan/)] \[[Code](https://github.com/genforce/interfacegan) ⭐ 1,560 | 🐛 44 | 🌐 Python | 📅 2022-02-09]
 
 **Seeing What a GAN Cannot Generate.**<br>
 *David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba.*<br>
@@ -924,7 +924,7 @@ TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
-SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,439 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
+SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,440 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,051 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,052 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

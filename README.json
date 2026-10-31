@@ -702,7 +702,7 @@
                 "open_issues": 1,
                 "owner": "yuval-alaluf",
                 "repo": "restyle-encoder",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "generative-adversarial-networks",
                   "iccv2021",
@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3350,
+                "stars": 3351,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -1681,7 +1681,7 @@
             "open_issues": 13,
             "owner": "genforce",
             "repo": "sefa",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1728,7 +1728,7 @@
             "open_issues": 29,
             "owner": "harskish",
             "repo": "ganspace",
-            "stars": 1795,
+            "stars": 1796,
             "topics": [
               "deep-learning",
               "gan",
@@ -1756,7 +1756,7 @@
             "open_issues": 44,
             "owner": "genforce",
             "repo": "interfacegan",
-            "stars": 1559,
+            "stars": 1560,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1439,
+                "stars": 1440,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 62,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8051,
+                "stars": 8052,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:18:05.060Z",
+    "last_updated": "2026-10-31T10:50:52.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
