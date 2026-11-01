@@ -42,7 +42,7 @@
                 "open_issues": 45,
                 "owner": "autonomousvision",
                 "repo": "stylegan-xl",
-                "stars": 994,
+                "stars": 993,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -113,7 +113,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6947,
+                "stars": 6946,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1860,7 +1860,7 @@
             "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "deep-learning",
               "diffusion-inversion",
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1440,
+                "stars": 1441,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:50:52.082Z",
+    "last_updated": "2026-11-01T11:47:02.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
