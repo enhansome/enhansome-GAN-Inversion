@@ -1438,7 +1438,7 @@
             "open_issues": 21,
             "owner": "wyhsirius",
             "repo": "LIA",
-            "stars": 650,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 13,
             "owner": "genforce",
             "repo": "sefa",
-            "stars": 962,
+            "stars": 961,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2344,7 +2344,7 @@
                 "open_issues": 2,
                 "owner": "yuval-alaluf",
                 "repo": "stylegan3-editing",
-                "stars": 684,
+                "stars": 683,
                 "topics": [
                   "generative-adversarial-network",
                   "image-editing",
@@ -2531,7 +2531,7 @@
                 "open_issues": 64,
                 "owner": "ZPdesu",
                 "repo": "Barbershop",
-                "stars": 1441,
+                "stars": 1442,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:47:02.162Z",
+    "last_updated": "2026-11-02T13:21:39.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",

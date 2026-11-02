@@ -118,7 +118,7 @@ CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,409 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,408 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
@@ -522,7 +522,7 @@ ICML 2022. \[[PDF](https://arxiv.org/abs/2202.09649)] \[[Code](https://github.co
 
 **Latent Image Animator: Learning to Animate Image via Latent Space Navigation.**<br>
 *Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva.*<br>
-ICLR 2022. \[[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] \[[Project](https://wyhsirius.github.io/LIA-project)] \[[Code](https://github.com/wyhsirius/LIA) ⭐ 650 | 🐛 21 | 🌐 Python | 📅 2025-10-22]
+ICLR 2022. \[[PDF](https://openreview.net/forum?id=7r6kDq0mK_)] \[[Project](https://wyhsirius.github.io/LIA-project)] \[[Code](https://github.com/wyhsirius/LIA) ⭐ 652 | 🐛 21 | 🌐 Python | 📅 2025-10-22]
 
 **Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs.**<br>
 *Jaewoong Choi, Changyeon Yoon, Junho Lee, Jung Ho Park, Geonho Hwang, Myungjoo Kang.*<br>
@@ -618,7 +618,7 @@ CVPR 2021. \[[PDF](http://arxiv.org/abs/2104.09065)]
 
 **SeFa: Closed-Form Factorization of Latent Semantics in GANs.**<br>
 *Yujun Shen, Bolei Zhou.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2007.06600)] \[[Code](https://github.com/genforce/sefa) ⭐ 962 | 🐛 13 | 🌐 Python | 📅 2021-03-04] \[[Project](https://genforce.github.io/sefa/)]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2007.06600)] \[[Code](https://github.com/genforce/sefa) ⭐ 961 | 🐛 13 | 🌐 Python | 📅 2021-03-04] \[[Project](https://genforce.github.io/sefa/)]
 
 **L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing.**<br>
 *Guoxing Yang, Nanyi Fei, Mingyu Ding, Guangzhen Liu, Zhiwu Lu, Tao Xiang.*<br>
@@ -840,7 +840,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.09273)] \[[Project](https://kuai-l
 
 **Third Time's the Charm? Image and Video Editing with StyleGAN3.**<br>
 *Yuval Alaluf, Or Patashnik, Zongze Wu, Asif Zamir, Eli Shechtman, Dani Lischinski, Daniel Cohen-Or.*<br>
-ECCV 2022 Workshop on Advances in Image Manipulation. \[[PDF](https://arxiv.org/abs/2201.13433)] \[[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] \[[Code](https://github.com/yuval-alaluf/stylegan3-editing) ⭐ 684 | 🐛 2 | 🌐 Python | 📅 2022-10-06]
+ECCV 2022 Workshop on Advances in Image Manipulation. \[[PDF](https://arxiv.org/abs/2201.13433)] \[[Project](https://yuval-alaluf.github.io/stylegan3-editing/)] \[[Code](https://github.com/yuval-alaluf/stylegan3-editing) ⭐ 683 | 🐛 2 | 🌐 Python | 📅 2022-10-06]
 
 **Everything is There in Latent Space: Attribute Editing and Attribute Style Manipulation by StyleGAN Latent Space Exploration.**<br>
 *Rishubh Parihar, Ankit Dhiman, Tejan Karmali, R. Venkatesh Babu.*<br>
@@ -924,7 +924,7 @@ TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
-SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,441 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
+SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,442 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
