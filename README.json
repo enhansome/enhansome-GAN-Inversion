@@ -134,7 +134,7 @@
                 "open_issues": 78,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -991,7 +991,7 @@
                 "open_issues": 7,
                 "owner": "davidbau",
                 "repo": "dissect",
-                "stars": 307,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1860,7 +1860,7 @@
             "open_issues": 14,
             "owner": "cure-lab",
             "repo": "PnPInversion",
-            "stars": 413,
+            "stars": 414,
             "topics": [
               "deep-learning",
               "diffusion-inversion",
@@ -1913,7 +1913,7 @@
             "open_issues": 8,
             "owner": "salesforce",
             "repo": "EDICT",
-            "stars": 322,
+            "stars": 323,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2392,7 +2392,7 @@
                 "open_issues": 14,
                 "owner": "rinongal",
                 "repo": "StyleGAN-nada",
-                "stars": 1195,
+                "stars": 1196,
                 "topics": [
                   "domain-adaptation",
                   "generative-adversarial-network",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:42:49.653Z",
+    "last_updated": "2026-11-04T12:54:09.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
