@@ -1480,7 +1480,7 @@
             "open_issues": 5,
             "owner": "OmerKafri",
             "repo": "StyleFusion",
-            "stars": 105,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2622,7 +2622,7 @@
                 "open_issues": 26,
                 "owner": "zyainfal",
                 "repo": "One-Shot-Face-Swapping-on-Megapixels",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "1024",
                   "cvpr2021",
@@ -2873,7 +2873,7 @@
                 "open_issues": 62,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8053,
+                "stars": 8054,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:54:09.620Z",
+    "last_updated": "2026-11-05T13:02:53.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
