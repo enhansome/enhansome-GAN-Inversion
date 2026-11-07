@@ -411,7 +411,7 @@
                 "open_issues": 22,
                 "owner": "danielroich",
                 "repo": "PTI",
-                "stars": 928,
+                "stars": 927,
                 "topics": [
                   "gan-inversion",
                   "generative-adversarial-network",
@@ -2873,7 +2873,7 @@
                 "open_issues": 62,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8055,
+                "stars": 8053,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:51:34.063Z",
+    "last_updated": "2026-11-07T11:38:38.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
