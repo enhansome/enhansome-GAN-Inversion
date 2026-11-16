@@ -110,7 +110,7 @@ NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvl
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github.com/NVlabs/stylegan2-ada) ⭐ 1,829 | 🐛 78 | 🌐 Python | 📅 2024-07-02] \[[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06]
+NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github.com/NVlabs/stylegan2-ada) ⭐ 1,828 | 🐛 78 | 🌐 Python | 📅 2024-07-02] \[[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06]
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
@@ -122,7 +122,7 @@ CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://git
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
-ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,177 | 🐛 11 | 🌐 Python | 📅 2022-02-17]
+ICLR 2018. \[[PDF](https://arxiv.org/abs/1710.10196)] \[[Offical TF](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,176 | 🐛 11 | 🌐 Python | 📅 2022-02-17]
 
 ### 3D-aware GANs
 
@@ -674,7 +674,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2305.15391)] \[[Project](https://inbarhu
 
 **Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code.**<br>
 *Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu.*<br>
-ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 415 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
+ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 416 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
 
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
 *Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -686,7 +686,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.co
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,056 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
+ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,057 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -924,7 +924,7 @@ TOG 2021. \[[PDF](https://arxiv.org/abs/2102.02754)] \[[Code](https://github.com
 
 **Barbershop: GAN-based Image Compositing using Segmentation Masks.**<br>
 *[Peihao Zhu](https://github.com/ZPdesu), [Rameen Abdal](https://github.com/RameenAbdal), [John Femiani](https://scholar.google.com/citations?user=rS1xJIIAAAAJ\&hl=en), [Peter Wonka](http://peterwonka.net/).*<br>
-SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,442 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
+SIGGRAPH Asia 2021. \[[PDF](https://arxiv.org/abs/2106.01505)] \[[Project](https://zpdesu.github.io/Barbershop/)] \[[Code](https://github.com/ZPdesu/Barbershop) ⭐ 1,441 | 🐛 64 | 🌐 Python | 📅 2023-06-25]
 
 **Constrained Graphic Layout Generation via Latent Optimization.**<br>
 *Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
