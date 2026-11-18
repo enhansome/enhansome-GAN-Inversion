@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
-                "stars": 1196,
+                "stars": 1195,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -113,7 +113,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6943,
+                "stars": 6944,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:15:56.303Z",
+    "last_updated": "2026-11-18T13:47:49.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
