@@ -90,7 +90,7 @@ CVPR 2023 (Highlight). \[[PDF](https://arxiv.org/abs/2303.05511)] \[[Project](ht
 
 **StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Andreas Geiger](https://www.cvlibs.net/), [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-ICML 2023. \[[Project](https://sites.google.com/view/stylegan-t/)]    \[[PDF](https://arxiv.org/abs/2301.09515)]   \[[Code](https://github.com/autonomousvision/stylegan-t) ⭐ 1,195 | 🐛 14 | 🌐 Python | 📅 2023-04-07]
+ICML 2023. \[[Project](https://sites.google.com/view/stylegan-t/)]    \[[PDF](https://arxiv.org/abs/2301.09515)]   \[[Code](https://github.com/autonomousvision/stylegan-t) ⭐ 1,194 | 🐛 14 | 🌐 Python | 📅 2023-04-07]
 
 **StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.**<br>
 *[Axel Sauer](https://axelsauer.com/), [Katja Schwarz](https://katjaschwarz.github.io/), [Andreas Geiger](http://www.cvlibs.net/).*<br>
@@ -106,19 +106,19 @@ CVPR 2022. \[[PDF](https://arxiv.org/pdf/2112.09130.pdf)] \[[Project](https://ww
 
 **StyleGAN3: Alias-Free Generative Adversarial Networks.**<br>
 *Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,944 | 🐛 191 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 505 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2106.12423)] \[[Project](https://nvlabs.github.io/alias-free-gan)] \[[Code](https://github.com/NVlabs/stylegan3) ⭐ 6,944 | 🐛 191 | 🌐 Python | 📅 2023-09-12] \[[Rosinality](https://github.com/rosinality/alias-free-gan-pytorch) ⭐ 504 | 🐛 17 | 🌐 Python | 📅 2022-01-20]
 
 **StyleGAN2-Ada: Training Generative Adversarial Networks with Limited Data.**<br>
 *Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila.*<br>
-NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github.com/NVlabs/stylegan2-ada) ⭐ 1,828 | 🐛 78 | 🌐 Python | 📅 2024-07-02] \[[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06]
+NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2006.06676)] \[[Code](https://github.com/NVlabs/stylegan2-ada) ⭐ 1,829 | 🐛 78 | 🌐 Python | 📅 2024-07-02] \[[Steam StyleGAN2-ADA](https://github.com/woctezuma/steam-stylegan2-ada) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06]
 
 **StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN.**<br>
 *[Tero Karras](https://research.nvidia.com/person/tero-karras), [Samuli Laine](https://research.nvidia.com/person/samuli-laine), [Miika Aittala](https://research.nvidia.com/person/miika-aittala), Janne Hellsten, Jaakko Lehtinen, [Timo Aila](https://research.nvidia.com/person/timo-aila).*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,185 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/1912.04958)] \[[PyTorch](https://github.com/rosinality/stylegan2-pytorch) ⭐ 2,834 | 🐛 217 | 🌐 Python | 📅 2023-11-06] \[[Offical TF](https://github.com/NVlabs/stylegan2) ⭐ 11,187 | 🐛 25 | 🌐 Python | 📅 2024-05-18]  \[[Unoffical Tensorflow 2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) ⭐ 481 | 🐛 16 | 🌐 Python | 📅 2022-01-24]
 
 **StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks.**<br>
 *Tero Karras, Samuli Laine, Timo Aila.*<br>
-CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,411 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
+CVPR 2019. \[[PDF](https://arxiv.org/abs/1812.04948)] \[[Offical TF](https://github.com/NVlabs/stylegan) ⭐ 14,413 | 🐛 12 | 🌐 Python | 📅 2024-04-10]
 
 **ProGAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation.**<br>
 *Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen.*<br>
@@ -364,7 +364,7 @@ SIGGRAPH Asia 2020. \[[PDF](https://arxiv.org/abs/2005.07728)] \[[Project](https
 
 **Understanding the Role of Individual Units in a Deep Neural Network.**<br>
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba.*<br>
-National Academy of Sciences 2020. \[[PDF](https://arxiv.org/abs/2009.05041)] \[[Code](https://github.com/davidbau/dissect/) ⭐ 307 | 🐛 7 | 🌐 Python | 📅 2021-01-09] \[[Project](https://dissect.csail.mit.edu/)]
+National Academy of Sciences 2020. \[[PDF](https://arxiv.org/abs/2009.05041)] \[[Code](https://github.com/davidbau/dissect/) ⭐ 306 | 🐛 7 | 🌐 Python | 📅 2021-01-09] \[[Project](https://dissect.csail.mit.edu/)]
 
 **Face Identity Disentanglement via Latent Space Mapping.**<br>
 *Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or.*<br>
@@ -388,11 +388,11 @@ ECCV 2020. \[[PDF](https://arxiv.org/abs/2003.03581)] \[[Code](https://github.co
 
 **In-Domain GAN Inversion for Real Image Editing.**<br>
 *Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou.*<br>
-ECCV 2020. \[[PDF](https://arxiv.org/abs/2004.00049)] \[[Project](https://genforce.github.io/idinvert/)] \[[Code](https://github.com/genforce/idinvert) ⭐ 454 | 🐛 20 | 🌐 Python | 📅 2021-07-28]
+ECCV 2020. \[[PDF](https://arxiv.org/abs/2004.00049)] \[[Project](https://genforce.github.io/idinvert/)] \[[Code](https://github.com/genforce/idinvert) ⭐ 453 | 🐛 20 | 🌐 Python | 📅 2021-07-28]
 
 **Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation.**<br>
 *Xingang Pan, Xiaohang Zhan, Bo Dai, Dahua Lin, Chen Change Loy, Ping Luo.*<br>
-ECCV 2020. \[[PDF](https://arxiv.org/abs/2003.13659)] \[[Code](https://github.com/XingangPan/deep-generative-prior) ⭐ 521 | 🐛 4 | 🌐 Python | 📅 2023-07-04]
+ECCV 2020. \[[PDF](https://arxiv.org/abs/2003.13659)] \[[Code](https://github.com/XingangPan/deep-generative-prior) ⭐ 520 | 🐛 4 | 🌐 Python | 📅 2023-07-04]
 
 **Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models.**<br>
 *Giannis Daras, Augustus Odena, Han Zhang, Alexandros G. Dimakis.*<br>
@@ -638,7 +638,7 @@ ICLR 2020. \[[PDF](https://arxiv.org/abs/1907.07171)] \[[Project](https://ali-de
 
 **GANSpace: Discovering Interpretable GAN Controls.**<br>
 *Erik Härkönen, Aaron Hertzmann, Jaakko Lehtinen, Sylvain Paris.*<br>
-NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2004.02546)] \[[Code](https://github.com/harskish/ganspace) ⭐ 1,797 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-01-20]
+NeurIPS 2020. \[[PDF](https://arxiv.org/abs/2004.02546)] \[[Code](https://github.com/harskish/ganspace) ⭐ 1,796 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-01-20]
 
 **Interpreting the Latent Space of GANs for Semantic Face Editing.**<br>
 *[Yujun Shen](http://shenyujun.github.io/), [Jinjin Gu](http://www.jasongt.com/), [Xiaoou Tang](http://www.ie.cuhk.edu.hk/people/xotang.shtml), [Bolei Zhou](http://bzhou.ie.cuhk.edu.hk/).*<br>
@@ -674,7 +674,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2305.15391)] \[[Project](https://inbarhu
 
 **Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code.**<br>
 *Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu.*<br>
-ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 417 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
+ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 416 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
 
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
 *Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -686,7 +686,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.co
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,057 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
+ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,055 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -872,7 +872,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.00007)]
 
 **HairCLIP: Design Your Hair by Text and Reference Image.**<br>
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu.*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.com/wty-ustc/HairCLIP) ⭐ 594 | 🐛 26 | 🌐 Python | 📅 2024-04-24]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.com/wty-ustc/HairCLIP) ⭐ 593 | 🐛 26 | 🌐 Python | 📅 2024-04-24]
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
@@ -884,7 +884,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.08422)] \[[Code](https://github.co
 
 **InsetGAN for Full-Body Image Generation.**<br>
 *[Anna Frühstück](https://afruehstueck.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Niloy J. Mitra](https://research.adobe.com/person/niloy-mitra/), [Peter Wonka](http://peterwonka.net/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07293)] \[[Project](http://afruehstueck.github.io/insetgan)] \[[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py) ⭐ 1,192 | 🐛 27 | 🌐 Python | 📅 2025-01-26]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07293)] \[[Project](http://afruehstueck.github.io/insetgan)] \[[Unofficial](https://github.com/stylegan-human/StyleGAN-Human/blob/main/insetgan.py) ⭐ 1,191 | 🐛 27 | 🌐 Python | 📅 2025-01-26]
 
 **SpaceEdit: Learning a Unified Editing Space for Open-Domain Image Editing.**<br>
 *[Jing Shi](https://www.cs.rochester.edu/u/jshi31/), [Ning Xu](https://sites.google.com/view/ningxu/), [Haitian Zheng](https://www.cs.rochester.edu/u/hzheng15/haitian_homepage/index.html), Alex Smith, [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).*<br>
@@ -1014,7 +1014,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2101.04061)] \[[Project](https://xinnta
 
 **PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.**<br>
 *Sachit Menon, Alexandru Damian, Shijia Hu, Nikhil Ravi, Cynthia Rudin.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,054 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.03808)] \[[Code](https://github.com/adamian98/pulse) ⭐ 8,052 | 🐛 62 | 🌐 Python | 📅 2021-04-30]
 
 **Style Generator Inversion for Image Enhancement and Animation.**<br>
 *[Aviv Gabbay](http://www.cs.huji.ac.il/~avivga), [Yedid Hoshen](http://www.cs.huji.ac.il/~ydidh).*<br>
@@ -1084,7 +1084,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2012.15370)] \[[Code](https://github.co
 
 **GAN2Shape: Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs.**<br>
 *[Xingang Pan](https://xingangpan.github.io/), Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo.*<br>
-ICLR 2021 (oral). \[[PDF](https://arxiv.org/abs/2011.00844)] \[[Code](https://github.com/XingangPan/GAN2Shape) ⭐ 573 | 🐛 35 | 🌐 Python | 📅 2023-07-04] \[[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
+ICLR 2021 (oral). \[[PDF](https://arxiv.org/abs/2011.00844)] \[[Code](https://github.com/XingangPan/GAN2Shape) ⭐ 571 | 🐛 35 | 🌐 Python | 📅 2023-07-04] \[[Project](https://xingangpan.github.io/projects/GAN2Shape.html)]
 
 ### Other Applications
 
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
