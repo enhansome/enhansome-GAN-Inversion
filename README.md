@@ -252,7 +252,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.07932)] \[[Code](https://github.co
 
 **High-Fidelity GAN Inversion for Image Attribute Editing.**<br>
 *[Tengfei Wang](https://tengfei-wang.github.io), Yong Zhang, Yanbo Fan, Jue Wang, Qifeng Chen.*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2109.06590)] \[[Project](https://tengfei-wang.github.io/HFGI/)] \[[Code](https://github.com/Tengfei-Wang/HFGI) ⭐ 474 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2022-09-29]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2109.06590)] \[[Project](https://tengfei-wang.github.io/HFGI/)] \[[Code](https://github.com/Tengfei-Wang/HFGI) ⭐ 475 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2022-09-29]
 
 **HyperInverter: Improving StyleGAN Inversion via Hypernetwork.**<br>
 *[Tan M. Dinh](https://di-mi-ta.github.io/), [Anh Tuan Tran](https://sites.google.com/site/anhttranusc/), [Rang Nguyen](https://sites.google.com/site/rangmanhonguyen/), [Binh-Son Hua](https://sonhua.github.io/).*<br>
@@ -674,7 +674,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2305.15391)] \[[Project](https://inbarhu
 
 **Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code.**<br>
 *Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu.*<br>
-ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 416 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
+ICLR 2024. \[[PDF](https://arxiv.org/abs/2310.01506)] \[[Code](https://github.com/cure-lab/DirectInversion) ⭐ 417 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2024-03-12]
 
 **NULL-text Inversion for Editing Real Images using Guided Diffusion Models.**<br>
 *Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -686,7 +686,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.12446)] \[[Code](https://github.co
 
 **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.**<br>
 *Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or.*<br>
-ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,055 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
+ICLR 2023 (Oral). \[[PDF](https://arxiv.org/abs/2208.01618)] \[[Project](https://textual-inversion.github.io/)] \[[Code](https://github.com/rinongal/textual_inversion) ⭐ 3,054 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2023-02-27]
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control.**<br>
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.*<br>
@@ -872,7 +872,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.00007)]
 
 **HairCLIP: Design Your Hair by Text and Reference Image.**<br>
 *Tianyi Wei, Dongdong Chen, Wenbo Zhou, Jing Liao, Zhentao Tan, Lu Yuan, Weiming Zhang, Nenghai Yu.*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.com/wty-ustc/HairCLIP) ⭐ 593 | 🐛 26 | 🌐 Python | 📅 2024-04-24]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.05142)] \[[Code](https://github.com/wty-ustc/HairCLIP) ⭐ 594 | 🐛 26 | 🌐 Python | 📅 2024-04-24]
 
 **HairMapper: Removing Hair from Portraits Using GANs.**<br>
 *[Yiqian Wu](https://onethousandwu.com/), [Yong-Liang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin).*<br>
@@ -1141,4 +1141,4 @@ If you find this repo or our paper is helpful for your research, please consider
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
