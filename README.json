@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3352,
+                "stars": 3353,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -1681,7 +1681,7 @@
             "open_issues": 13,
             "owner": "genforce",
             "repo": "sefa",
-            "stars": 961,
+            "stars": 960,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 62,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8052,
+                "stars": 8053,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:51:17.310Z",
+    "last_updated": "2026-11-24T15:42:49.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
