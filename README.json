@@ -162,7 +162,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3337,
+                "stars": 3338,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2505,7 +2505,7 @@
                 "open_issues": 10,
                 "owner": "yuval-alaluf",
                 "repo": "SAM",
-                "stars": 730,
+                "stars": 731,
                 "topics": [
                   "age-transformation",
                   "aging",
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:27:17.680Z",
+    "last_updated": "2026-11-26T14:58:16.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
