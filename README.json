@@ -1681,7 +1681,7 @@
             "open_issues": 13,
             "owner": "genforce",
             "repo": "sefa",
-            "stars": 960,
+            "stars": 961,
             "topics": []
           },
           "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2873,7 +2873,7 @@
                 "open_issues": 62,
                 "owner": "alex-damian",
                 "repo": "pulse",
-                "stars": 8054,
+                "stars": 8055,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:58:16.652Z",
+    "last_updated": "2026-11-27T14:54:44.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
