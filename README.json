@@ -113,7 +113,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6943,
+                "stars": 6942,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -820,7 +820,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3353,
+                "stars": 3352,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -970,7 +970,7 @@
                 "open_issues": 8,
                 "owner": "YotamNitzan",
                 "repo": "ID-disentanglement",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -1012,7 +1012,7 @@
                 "open_issues": 8,
                 "owner": "YotamNitzan",
                 "repo": "ID-disentanglement",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -2757,7 +2757,7 @@
                 "open_issues": 2,
                 "owner": "endo-yuki-t",
                 "repo": "Fewshot-SMIS",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:20:40.886Z"
@@ -3173,7 +3173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T14:54:44.246Z",
+    "last_updated": "2026-11-28T14:03:07.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2022] GAN Inversion: A Survey",
